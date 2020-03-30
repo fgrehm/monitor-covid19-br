@@ -1,0 +1,6 @@
+- link: "/noticias/"
+  name: "Notícias"
+- link: "/tweets/"
+  name: "Tweets"
+- link: "/sobre/"
+  name: "Sobre"

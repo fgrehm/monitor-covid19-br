@@ -1,0 +1,21 @@
+<footer class="footer">
+    <div class="container">
+        {% if site.footer_menu %}
+        <div class="columns is-multiline">
+            {% for item in site.data[site.footer_menu] %}
+            <div class="column has-text-centered">
+                <div>
+                    <a href="{{ item.link | prepend: site.baseurl }}" class="link">{{ item.name }}</a>
+                </div>
+            </div>
+            {% endfor %}
+        </div>
+        {% endif %}
+
+        <div class="content is-small has-text-centered">
+          <p>
+            O Monitor da COVID-19 no Brasil está sendo desenvolvido com muito carinho por <a href="https://twitter.com/fgrehm" target="_blank">Fábio Rehm</a>.
+          </p>
+        </div>
+    </div>
+</footer>

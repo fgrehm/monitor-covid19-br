@@ -1,0 +1,21 @@
+style: is-light
+height: is-medium
+items:
+  - title: Acesse as publicações
+    icon: fa-database
+    description: >
+      O projeto está em planejamento mas um protótipo já está pronto.
+    call_to_action_name: Visualizar notícias
+    call_to_action_link: /noticias/
+  - title: Sobre o projeto
+    icon: fa-question
+    description: >
+      Entenda para quê serve e qual a motivação por trás do projeto.
+    call_to_action_name: Saiba mais
+    call_to_action_link: /sobre/
+  - title: Contribua
+    icon: fab fa-github
+    description: >
+      Gostou da idéia e quer ajudar? Clique no link abaixo e descubra como.
+    call_to_action_name: Quero ajudar
+    call_to_action_link: "/sobre/#quer-ajudar"
