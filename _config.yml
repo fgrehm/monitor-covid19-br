@@ -27,7 +27,7 @@ google_analytics: "UA-162234683-1"
 
 # Build settings
 markdown: kramdown
-theme: bulma-clean-theme
+remote_theme: chrisrhymes/bulma-clean-theme
 plugins:
   - jekyll-feed
 
