@@ -121,14 +121,8 @@ você pode visualizar o que está sendo monitorado pelo "robô" atualmente.
 
 # O código do projeto será 100% aberto?
 
-O protótipo que fiz não será pois sites dos governos e secretarias não estão
-aguentando a quantidade de acessos e estão enfrentando instabilidades o que tem
-a capacidade de contribuir para este problema e dificultar o acesso à
-informação nesse momento tão importante que precede o pico do número de casos no
-país.
-
-Assim que possível darei inicio a um novo projeto de código aberto no GitHub e
-todo o desenvolvimento será feito num repositório público.
+O protótipo que fiz não será, mas assim que possível darei inicio a um novo
+repositório no GitHub e todo o desenvolvimento poderá ser acompanhado por lá.
 
 Os dados estarão sempre disponiveis para qualquer pessoa acessar num site
 público e estou aberto a expor os dados num formato amigável para integração
