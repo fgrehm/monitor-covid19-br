@@ -9063,6 +9063,15 @@
   state: PR
   website: http://www.aen.pr.gov.br/noticias.html
   source_name: Governo do Estado do Paraná
+- title: Paraná tem hospital exclusivo para tratamento do coronavírus
+  description: O Paraná passou a contar com um hospital completamente voltado para
+    o tratamento do coronavírus...
+  link: http://www.aen.pr.gov.br/modules/noticias/article.php?storyid=106378&tit=Parana-tem-hospital-exclusivo-para-tratamento-do-coronavirus
+  region: Sul
+  published_at: '2020-03-30 11:40:00'
+  state: PR
+  website: http://www.aen.pr.gov.br/noticias.html
+  source_name: Governo do Estado do Paraná
 - title: "Paraná conta com hospital exclusivo \r\npara tratamento do coronavírus"
   description: O Paraná passou a contar com um hospital completamente voltado para
     o tratamento do coronavírus...
@@ -9564,6 +9573,34 @@
   website: http://www.aen.pr.gov.br/noticias.html
   source_name: Governo do Estado do Paraná
 - title: 'MEI: prazo final de entrega da declaração anual é prorrogado para 30 de
+    junho'
+  description: Novo prazo faz parte das medidas emergenciais de enfrentamento ao coronavírus. 
+    Em virtude dos impactos causados pela pandemia do Covid-19 (o novo coronavírus),
+    os Microempreendedores Individuais (MEI) terão novo prazo final para entrega da
+    Declaração Anual Simplificada (DSAN-SIMEI), bem como a apresentação da Declaração
+    de Informações Socioeconômicas e Fiscais (DEFIS), referentes ao ano passado (2019),
+    que foram prorrogados para 30 de junho de 2020.      O prazo anterior para a Defis
+    era até 31 de março, e a da DASN até o dia 31 de maio. O novo prazo, aprovado
+    pelo Comitê Gestor do Simples Nacional foi publicado no Diário Oficial na última
+    quinta-feira (26). Segundo a Receita Federal, o objetivo é diminuir o impacto
+    econômico causado pelo surto do coronavírus no Brasil.   O secretário do Trabalho,
+    Emprego e Qualificação, Alberes Lopes, destaca que os microempreendedores individuais
+    e os pequenos negócios são os que mais precisam de apoio nesse período de crise
+    mundial. “As micros e pequenas empresas são as que mais têm dificuldades nesse
+    momento de crise instalada pela pandemia. Mas não vamos ficar de braços cruzados.
+    Estamos tomando novas medidas para ajudar da melhor forma os trabalhadores de
+    todo o Estado”, afirmou o secretário Alberes.    Ambas as declarações são realizadas
+    pelo regime do Simples Nacional e prestam contas à Receita Federal.    O MEI deve
+    declarar todo o ano o valor do faturamento bruto, o que equivale ao valor total
+    de prestação de serviços e das vendas de mercadorias realizadas mês a mês, tudo
+    através...
+  link: http://www.pe.gov.br/b/22253
+  region: Nordeste
+  published_at: '2020-03-30 17:22:42'
+  state: PE
+  website: http://www.pe.gov.br/blog
+  source_name: Governo do Estado de Pernambuco
+- title: 'MEI: prazo final de entrega da declaração anual é prorrogado para 30 de
     julho'
   description: Novo prazo faz parte das medidas emergenciais de enfrentamento ao coronavírus
      Em virtude dos impactos causados pela pandemia do Covid-19 (o novo coronavírus),
@@ -9779,3 +9816,918 @@
   state: SP
   website: http://www.saopaulo.sp.gov.br/ultimas-noticias/
   source_name: Governo do Estado de São Paulo
+- title: 'COVID-19: Cientistas buscam teste que prevê risco de paciente evoluir para
+    quadro grave'
+  description: Método desenvolvido por Unicamp e USP se baseia na análise do padrão
+    de moléculas encontrado em fluidos corporais
+  link: https://www.saopaulo.sp.gov.br/ultimas-noticias/covid-19-cientistas-buscam-teste-que-preve-risco-de-paciente-evoluir-para-quadro-grave/
+  region: Sudeste
+  published_at: '2020-03-30 20:23:00'
+  state: SP
+  website: http://www.saopaulo.sp.gov.br/ultimas-noticias/
+  source_name: Governo do Estado de São Paulo
+- title: Governo adota medidas para diminuir impacto econômico e sanitário do coronavírus
+    nesta segunda-feira (30/3)
+  description: O governo do Estado seguiu trabalhando nesta segunda-feira (30/3) para
+    amenizar os efeitos da pandemia do coronavírus no Rio Grande do Sul. Em transmissão
+    ao vivo pela internet, à tarde, o governador Eduardo Leite estacou que busca a
+    parceria dos prefeitos...
+  link: https://estado.rs.gov.br/governo-adota-medidas-para-diminuir-impacto-economico-e-sanitario-do-coronavirus-nesta-segunda-feira-30-3
+  region: Sul
+  published_at: '2020-03-30 20:30:00'
+  state: RS
+  website: https://estado.rs.gov.br/ultimas-noticias
+  source_name: Governo do Estado do Rio Grande do Sul
+- title: Bahia registra segundo óbito pelo novo coronavírus (Covid-19)
+  description: A Secretaria da Saúde do Estado da Bahia (Sesab) informa que registrou
+    nesta segunda-feira (30), o segundo óbito pelo novo coronavírus (Covid-19) no
+    estado. O paciente era um homem de 64 anos, que estava internado
+  link: http://www.saude.ba.gov.br/2020/03/30/bahia-registra-segundo-obito-pelo-novo-coronavirus-covid-19/
+  region: Nordeste
+  published_at: '2020-03-30 20:38:00'
+  state: BA
+  website: http://www.saude.ba.gov.br/noticias
+  source_name: Governo do Estado da Bahia - Secretaria da Saúde
+- title: Hospital de Trauma de Campina Grande prepara leitos de retaguarda para pacientes
+    com coronavírus
+  description: O Hospital Estadual de Emergência e Trauma Dom Luiz Gonzaga Fernandes,
+    em Campina Grande, está preparando duas enfermarias, uma com 30 leitos de Unidade
+    de Terapia Intensiva (UTI) e outra com 30 leitos de internação regular, destinadas
+    aos pacientes que precisem de suporte médico-hospitalar por causa da Covid-19.
+  link: https://paraiba.pb.gov.br/noticias/hospital-de-trauma-de-campina-grande-prepara-leitos-de-retaguarda-para-pacientes-com-coronavirus
+  region: Nordeste
+  published_at: '2020-03-31 08:43:00'
+  state: PB
+  website: https://paraiba.pb.gov.br/noticias
+  source_name: Governo do Estado da Paraíba
+- title: Paulo Câmara dá continuidade ao ciclo de reuniões com representantes do setor
+    produtivo sobre os efeitos da Covid-19
+  description: "Por meio de videoconferência, governador ouviu pleitos das entidades
+    e debateu ações conjuntas para reduzir impactos da doença na economia do Estado \r\nDando
+    continuidade ao diálogo com o setor produtivo do Estado, o governador Paulo Câmara
+    promoveu, nesta segunda-feira (30.03), um encontro por videoconferência com representantes
+    de entidades empresariais, para discutir o panorama atual da Covid-19 e os próximos
+    passos a serem dados no sentido de minimizar seus impactos na economia. A iniciativa
+    faz parte do Comitê de Articulação Estratégica de Enfrentamento ao Coronavírus,
+    coordenado pela Secretaria Estadual de Desenvolvimento Econômico.\r\nO secretário
+    Bruno Schwambach, titular da pasta, destacou que o Governo de Pernambuco está
+    buscando alternativas para manter a atividade econômica e os empregos, mas sempre
+    levando em consideração as recomendações para evitar um maior número de contaminações.
+    “É o momento de atualizar o setor sobre tudo o que está sendo feito e pensar em
+    soluções conjuntas. Queremos ouvir sobre as ações que eles estão tomando e sugestões
+    para eventuais flexibilizações e ações que podemos vir a executar”, explicou.\r\nEntre
+    os pleitos apresentados pelos empresários, o principal diz respeito à flexibilização
+    tributária, além de meios para mitigar os efeitos negativos da doença sobre o
+    setor. O governador informou aos participantes que o assunto será discutido na
+    próxima sexta-feira (03/04) em âmbito nacional, durante a reunião do Conselho
+    Nacional dos Secretários Estaduais de Fazenda (Consefaz). O secretário estadual
+    de Planejamento e Gestão, Alexandre Rebêlo, também participou da reunião. \r\nFotos: Hélia
+    Scheppa/SEI"
+  link: http://www.pe.gov.br/b/22256
+  region: Nordeste
+  published_at: '2020-03-31 09:23:07'
+  state: PE
+  website: http://www.pe.gov.br/blog
+  source_name: Governo do Estado de Pernambuco
+- title: Fepam suspende prazos processuais no período de calamidade pública
+  description: A Fundação Estadual de Proteção Ambiental (Fepam) suspendeu os prazos
+    processuais relativos aos pedidos de licenciamento ambiental durante o estado
+    de calamidade pública decretado em função do Covid-19.
+  link: https://estado.rs.gov.br/fepam-suspende-prazos-processuais-durante-o-periodo-de-calamidade-publica
+  region: Sul
+  published_at: '2020-03-31 09:25:00'
+  state: RS
+  website: https://estado.rs.gov.br/ultimas-noticias
+  source_name: Governo do Estado do Rio Grande do Sul
+- title: Aumenta para 34 o total de municípios com transporte intermunicipal suspenso
+  description: "Itagibá, Itamaraju, Itororó, Pojuca e Dias d\x92Ávila entram na lista
+    de municípios que têm o transporte intermunicipal de passageiros suspenso até
+    5 de abril, como medida para conter a contaminação por coronavírus na população
+    baiana."
+  link: http://www.secom.ba.gov.br/2020/03/153081/Aumenta-para-34-o-total-de-municipios-com-transporte-intermunicipal-suspenso.html
+  region: Nordeste
+  published_at: '2020-03-31 10:10:00'
+  state: BA
+  website: http://www.secom.ba.gov.br/modules/noticias
+  source_name: Governo do Estado da Bahia - SECOM
+- title: SP usa teleconsultoria para levar protocolo do HC a hospitais com casos de
+    coronavírus
+  description: Projeto do Incor permite que especialistas do HC falem em tempo real
+    com outros médicos da rede, melhorando assistência aos quadros graves
+  link: https://www.saopaulo.sp.gov.br/spnoticias/governo-de-sp-anuncia-novas-medidas-para-intensificar-o-combate-ao-coronavirus-3/
+  region: Sudeste
+  published_at: '2020-03-31 10:14:00'
+  state: SP
+  website: http://www.saopaulo.sp.gov.br/ultimas-noticias/
+  source_name: Governo do Estado de São Paulo
+- title: Governo de SP anuncia novas medidas para intensificar o combate ao coronavírus
+  description: Coletiva de imprensa desta terça-feira (31) será realizada no Palácio
+    dos Bandeirantes, na capital, a partir das 12h30
+  link: https://www.saopaulo.sp.gov.br/spnoticias/governo-de-sp-anuncia-novas-medidas-para-intensificar-o-combate-ao-coronavirus-3/
+  region: Sudeste
+  published_at: '2020-03-31 10:14:00'
+  state: SP
+  website: http://www.saopaulo.sp.gov.br/ultimas-noticias/
+  source_name: Governo do Estado de São Paulo
+- title: HGVC recebe doações de protetores faciais que poderão ser usadas no combate
+    à Covid-19
+  description: O Hospital Geral de Vitória da Conquista (HGVC) recebeu doações de
+    100 protetores faciais que podem ser usados no trato de pacientes com suspeitas
+    ou diagnosticado com Coronavírus. O protetor facial é uma espécie de
+  link: http://www.saude.ba.gov.br/2020/03/31/hgvc-recebe-doacoes-de-protetores-faciais-que-poderao-ser-usadas-no-combate-a-covid-19/
+  region: Nordeste
+  published_at: '2020-03-31 10:17:00'
+  state: BA
+  website: http://www.saude.ba.gov.br/noticias
+  source_name: Governo do Estado da Bahia - Secretaria da Saúde
+- title: Lacen agiliza testes e ganha reforço no quadro de funcionários
+  description: O Governo do Paraná reforçou em 28,5% o quadro de profissionais do
+    Laboratório Central do Estado (Lacen-PR), principal responsável por exames de
+    contraprova para a Covid-19...
+  link: http://www.aen.pr.gov.br/modules/noticias/article.php?storyid=106400&tit=Lacen-agiliza-testes-e-ganha-reforco-no-quadro-de-funcionarios
+  region: Sul
+  published_at: '2020-03-31 10:17:00'
+  state: PR
+  website: http://www.aen.pr.gov.br/noticias.html
+  source_name: Governo do Estado do Paraná
+- title: Primeiros pacientes já ocupam leitos no Hospital Fazendão
+  description: Os três primeiros pacientes já estão instalados no Hospital Fazendão,
+    montado para dar apoio à rede de Saúde do Estado durante o período em que a pandemia
+    de coronavírus está colocando em risco a vida
+  link: http://www.saude.ba.gov.br/2020/03/31/primeiros-pacientes-ja-ocupam-leitos-no-hospital-fazendao/
+  region: Nordeste
+  published_at: '2020-03-31 10:22:00'
+  state: BA
+  website: http://www.saude.ba.gov.br/noticias
+  source_name: Governo do Estado da Bahia - Secretaria da Saúde
+- title: Aumenta para 34 o total de municípios com transporte intermunicipal suspenso
+  description: Itagibá, Itamaraju, Itororó, Pojuca e Dias d’Ávila entram na lista
+    de municípios que têm o transporte intermunicipal de passageiros suspenso até
+    5 de abril, como medida para conter a contaminação por coronavírus na população
+    baiana.
+  link: http://www.ba.gov.br/noticias/aumenta-para-34-o-total-de-municipios-com-transporte-intermunicipal-suspenso
+  region: Nordeste
+  published_at: '2020-03-31 10:23:00'
+  state: BA
+  website: http://www.ba.gov.br/noticias
+  source_name: Governo do Estado da Bahia
+- title: Polícia alerta população sobre golpes virtuais durante a pandemia
+  description: A Polícia Civil do Paraná (PCPR) alerta a população sobre golpes virtuais
+    que estão sendo aplicadosdurante a pandemia da Covid-19...
+  link: http://www.aen.pr.gov.br/modules/noticias/article.php?storyid=106401&tit=Policia-alerta-populacao-sobre-golpes-virtuais-durante-a-pandemia
+  region: Sul
+  published_at: '2020-03-31 10:30:00'
+  state: PR
+  website: http://www.aen.pr.gov.br/noticias.html
+  source_name: Governo do Estado do Paraná
+- title: Mês da Dança tem aniversário do BTCA e série de espetáculos na internet
+  description: 'No dia 1º de abril, mês em que se marca o Dia Internacional da Dança
+    (29 de abril), o Balé Teatro Castro Alves (BTCA) celebra mais um aniversário.
+    Com a programação presencial suspensa por conta das medidas para enfrentamento
+    da Covid-19 (Coronavírus), o grupo adia as comemorações em espetáculos ao vivo,
+    mas exibe na internet coreografias e videodanças de seu vasto repertório, dentro
+    da série #BTCAplay, nas redes sociais do BTCA, no Facebook e Instagram (@btca.oficial),
+    sempre às quartas e sextas-feiras, das 10h à 0h.'
+  link: http://www.ba.gov.br/noticias/mes-da-danca-tem-aniversario-do-btca-e-serie-de-espetaculos-na-internet
+  region: Nordeste
+  published_at: '2020-03-31 10:34:00'
+  state: BA
+  website: http://www.ba.gov.br/noticias
+  source_name: Governo do Estado da Bahia
+- title: Literatura infantojuvenil no combate ao celular durante isolamento
+  description: 'Cepe Editora anuncia lançamentos no segmento para este ano e exibe
+    alternativas do seu catálogo para entreter as crianças A pandemia da Covid-19
+    cancelou aulas, atividades esportivas e enclausurou crianças em casa. Resultado:
+    televisão, videogame e celular o dia inteiro. Para os pais, aquele dilema: como
+    oferecer outra opção nesse momento. Ainda mais para quem precisa não somente estar
+    em casa, como também trabalhar em esquema de home office, o que requer um pouco
+    de tranquilidade dentro dos metros quadrados disponíveis. A literatura pode ser
+    uma ótima alternativa para afastar os pequenos dos eletrônicos e, de quebra, introduzi-las
+    no mundo dos livros. São narrativas que abordam temáticas sociais, psicológicas
+    e contemporâneas, ora em linguagem lúdica, ora realista, a depender da idade,
+    dando grande importância às ilustrações. “Para as crianças, limitadas ao ambiente
+    de casa nesse contexto e, muitas vezes, presas às telas, livros e histórias nunca
+    foram tão importantes quanto agora. A Cepe Editora tem investido ao longo dos
+    anos em um catálogo de narrativas para vários públicos. Neste ano, além do já
+    lançado A menina que engoliu o céu estrelado (Gael Rodrigues) - vencedor do Prêmio
+    Cepe Nacional de Literatura Infantojuvenil -, para crianças com mais grau de leitura,
+    temos outros lançamentos previstos, como outros vencedores do prêmio: A biblioteca
+    de Bia, de Viviane Ferreira Santiago; e Contos com gigantes, de Carolina Becker
+    Kop”, revela o editor da Cepe, Diogo Guedes.  Uma crítica social à vida nas grandes
+    cidades é feita pelo escritor Gael Rodrigues no livro A menina que...'
+  link: http://www.pe.gov.br/b/22258
+  region: Nordeste
+  published_at: '2020-03-31 10:53:37'
+  state: PE
+  website: http://www.pe.gov.br/blog
+  source_name: Governo do Estado de Pernambuco
+- title: Estudantes fabricam sabão para doar ao Hospital Regional Costa do Cacau e
+    Corpo de Bombeiros em Ilhéus
+  description: Com o objetivo de contribuir com a prevenção ao Coronavírus, o Centro
+    Estadual de Educação Profissional (CEEP) em Gestão e Tecnologia da Informação
+    Álvaro Melo Vieira, localizado em Ilhéus, no Sul da Bahia, preparou 230 litros
+    de sabão líquido concentrado para doação ao Hospital Regional Costa do Cacau e
+    ao Grupamento de Bombeiros.
+  link: http://www.secom.ba.gov.br/2020/03/153083/Estudantes-fabricam-sabao-para-doar-ao-Hospital-Regional-Costa-do-Cacau-e-Corpo-de-Bombeiros-em-Ilheus.html
+  region: Nordeste
+  published_at: '2020-03-31 11:00:00'
+  state: BA
+  website: http://www.secom.ba.gov.br/modules/noticias
+  source_name: Governo do Estado da Bahia - SECOM
+- title: Estudantes fabricam sabão para doar ao Hospital Regional Costa do Cacau e
+    Corpo de Bombeiros em Ilhéus
+  description: Com o objetivo de contribuir com a prevenção ao Coronavírus, o Centro
+    Estadual de Educação Profissional (CEEP) em Gestão e Tecnologia da Informação
+    Álvaro Melo Vieira, localizado em Ilhéus, no Sul da Bahia, preparou 230 litros
+    de sabão líquido concentrado para doação ao Hospital Regional Costa do Cacau e
+    ao Grupamento de Bombeiros. A produção do sabão é realizada na fábrica da unidade
+    escolar, instalada desde 2019 para a prática dos estudantes do curso técnico em
+    Química, que estão envolvidos na iniciativa.
+  link: http://www.ba.gov.br/noticias/estudantes-fabricam-sabao-para-doar-ao-hospital-regional-costa-do-cacau-e-corpo-de
+  region: Nordeste
+  published_at: '2020-03-31 11:12:00'
+  state: BA
+  website: http://www.ba.gov.br/noticias
+  source_name: Governo do Estado da Bahia
+- title: 'USP: Projeto permite construir ventiladores pulmonares mais baratos e em
+    tempo recorde'
+  description: Equipamentos poderão ser produzidos por fabricantes autorizados para
+    atender emergências em pacientes com COVID-19
+  link: https://www.saopaulo.sp.gov.br/ultimas-noticias/usp-projeto-permite-construir-ventiladores-pulmonares-mais-baratos-e-em-tempo-recorde/
+  region: Sudeste
+  published_at: '2020-03-31 11:28:00'
+  state: SP
+  website: http://www.saopaulo.sp.gov.br/ultimas-noticias/
+  source_name: Governo do Estado de São Paulo
+- title: Saúde divulga perfil de coronavírus na Paraíba em boletim epidemiológico
+  description: A Secretaria de Estado da Saúde (SES) divulgou, nesta terça-feira (31),
+    o primeiro Boletim Epidemiológico do novo coronavírus (Covid-19). O documento
+    traça o perfil da doença na Paraíba, além de contabilizar o número de casos confirmados
+    e os que estão em investigação.
+  link: https://paraiba.pb.gov.br/noticias/saude-divulga-perfil-de-coronavirus-na-paraiba-em-boletim-epidemiologico
+  region: Nordeste
+  published_at: '2020-03-31 11:36:00'
+  state: PB
+  website: https://paraiba.pb.gov.br/noticias
+  source_name: Governo do Estado da Paraíba
+- title: Fapemig apoia pesquisa para desenvolver vacina contra o coronavírus
+  description: A Fundação de Amparo à Pesquisa do Estado de Minas Gerais (Fapemig)
+    tem investido em ações voltadas ao enfrentamento e redução de danos provocados...
+  link: http://www.agenciaminas.mg.gov.br/noticia/fapemig-apoia-pesquisa-para-desenvolver-vacina-contra-o-coronavirus
+  region: Sudeste
+  published_at: '2020-03-31 12:45:00'
+  state: MG
+  website: http://www.agenciaminas.mg.gov.br/noticias
+  source_name: Governo do Estado de Minas Gerais
+- title: Pesquisa busca desenvolver vacina contra o coronavírus
+  description: A Fundação de Amparo à Pesquisa do Estado de Minas Gerais (Fapemig)
+    tem investido em ações voltadas ao enfrentamento e redução de danos provocados...
+  link: http://www.agenciaminas.mg.gov.br/noticia/pesquisa-busca-desenvolver-vacina-contra-o-coronavirus
+  region: Sudeste
+  published_at: '2020-03-31 12:45:00'
+  state: MG
+  website: http://www.agenciaminas.mg.gov.br/noticias
+  source_name: Governo do Estado de Minas Gerais
+- title: Comitê Científico do Consórcio Nordeste dá primeiras orientações para enfrentamento
+    ao coronavírus
+  description: Durante o encontro virtual, o grupo, formado por renomados cientistas,
+    pesquisadores e físicos brasileiros, fez uma apresentação preliminar da metodologia
+    que irão usar para ajudar os nove governadores da região a embasarem cientificamente
+    as ações executadas para combater a pandemia gerada pelo novo coronavírus.
+  link: http://www.secom.ba.gov.br/2020/03/153085/Comite-Cientifico-do-Consorcio-Nordeste-da-primeiras-orientacoes-para-enfrentamento-ao-coronavirus.html
+  region: Nordeste
+  published_at: '2020-03-31 13:10:00'
+  state: BA
+  website: http://www.secom.ba.gov.br/modules/noticias
+  source_name: Governo do Estado da Bahia - SECOM
+- title: BRDE anuncia R$ 1,3 bilhão para apoiar retomada da economia
+  description: O Banco Regional de Desenvolvimento do Extremo Sul (BRDE) anuncia a
+    criação de um programa de apoio aos empreendedores do Sul do Brasil, impactados
+    pela pandemia de coronavírus...
+  link: http://www.aen.pr.gov.br/modules/noticias/article.php?storyid=106403&tit=BRDE-anuncia-R-13-bilhao-para-apoiar-retomada-da-economia
+  region: Sul
+  published_at: '2020-03-31 13:22:00'
+  state: PR
+  website: http://www.aen.pr.gov.br/noticias.html
+  source_name: Governo do Estado do Paraná
+- title: Comitê Científico do Consórcio Nordeste dá primeiras orientações para enfrentamento
+    ao coronavírus
+  description: Uma videoconferência realizada na manhã desta terça-feira (31) reuniu
+    os membros do Comitê Científico do Consórcio Nordeste e o presidente da entidade,
+    o governador da Bahia, Rui Costa. Durante o encontro virtual, o grupo, formado
+    por renomados cientistas, pesquisadores e físicos brasileiros, fez uma apresentação
+    preliminar da metodologia que irão usar para ajudar os nove governadores da região
+    a embasarem cientificamente as ações executadas para combater a pandemia gerada
+    pelo novo coronavírus.
+  link: http://www.ba.gov.br/noticias/comite-cientifico-do-consorcio-nordeste-da-primeiras-orientacoes-para-enfrentamento-ao
+  region: Nordeste
+  published_at: '2020-03-31 13:27:00'
+  state: BA
+  website: http://www.ba.gov.br/noticias
+  source_name: Governo do Estado da Bahia
+- title: Policiais militares de São Paulo já podem se vacinar contra influenza
+  description: Imunização dos agentes de Segurança Pública foi antecipada por recomendação
+    do Centro de Contingência do Coronavírus
+  link: https://www.saopaulo.sp.gov.br/ultimas-noticias/policiais-militares-de-sao-paulo-ja-podem-se-vacinar-contra-influenza/
+  region: Sudeste
+  published_at: '2020-03-31 13:28:00'
+  state: SP
+  website: http://www.saopaulo.sp.gov.br/ultimas-noticias/
+  source_name: Governo do Estado de São Paulo
+- title: Boletim "Pernambuco Contra o Coronavírus"
+  description: "   CORONAVÍRUS | Pernambuco teve mais quatro casos da Covid-19 confirmados
+    nesta segunda-feira (30), totalizando 77. Mais uma morte também foi confirmada:
+    a de um homem de 62 anos, no domingo (29), no Hospital dos Servidores do Estado
+    (HSE), após quatro dias de tratamento intensivo. Com isso, sobe para 6 o número
+    de mortes pelo Novo Coronavírus em Pernambuco. Mais dois pacientes apresentaram
+    cura clínica, somando 13 casos recuperados. Há 39 em isolamento domiciliar e 19
+    internados, sendo 12 em UTI/ UCI e 7 em leitos de isolamento. ESCLARECIMENTO |
+    O paciente de 57 anos que faleceu no Hospital Maria Lucinda no dia 23 de março
+    nunca constou nas estatísticas de mortes por Covid-19 da Secretaria Estadual de
+    Saúde (SES-PE). Os óbitos relativos à Covid-19 não são contabilizados por atestados,
+    mas por testagem da Vigilância Epidemiológica. Confira a nota oficial: https://instagram.com/p/B-Xa0aiFWbF/
+    VACINA | O Detran-PE está atuando no sistema “drive thru” e também em ações a
+    domicílio para vacinação de idosos contra a gripe (Influenza/H1N1), no Recife
+    e RMR. A modalidade de vacinação ocorre inicialmente em São Lourenço da Mata,
+    de terça (31) a quinta (2), em parceria com a Secretaria Municipal de Saúde. Na
+    terça (31), o “drive thru” chega a Escada, na Zona da Mata, das 14 às 17h, em
+    frente ao Banco do Brasil. No Recife, a ação prossegue em novo local, na Av. Recife.
+    http://www.pe.gov.br/b/22249 NORONHA | A administração de Fernando de Noronha
+    iniciou a montagem de um hospital de campanha na Escola Arquipélago, como medida..."
+  link: http://www.pe.gov.br/b/22259
+  region: Nordeste
+  published_at: '2020-03-31 13:53:53'
+  state: PE
+  website: http://www.pe.gov.br/blog
+  source_name: Governo do Estado de Pernambuco
+- title: Boletim "Pernambuco Contra o Coronavírus"
+  description: "  CORONAVÍRUS |Nas últimas 24h, a Secretaria de Saúde-PE registrou
+    mais 9 casos de Covid-19, totalizando 57 confirmados, distribuídos por seis municípios,
+    além de Fernando de Noronha (1º caso confirmado no arquipélago) e de pacientes
+    de outras origens. Mais uma paciente se recuperou - agora são 7. Há 13 pessoas
+    hospitalizadas, 6 delas com suporte Intensivo (UTI/CTI), e outras 33 em isolamento
+    domiciliar. Também foi confirmada, laboratorialmente, mais uma morte pela Covid-19,
+    de um homem de 82 anos, residente no bairro do Vasco da Gama, no Recife. Ele morreu
+    na última quarta (25), um dia depois de dar entrada no Hospital dos Servidores
+    do Estado (HSE), e não apresentava histórico de viagem ou contato com caso suspeito
+    ou confirmado. Veja mais detalhes: http://www.pe.gov.br/b/22234 ▶️ Assista ao
+    pronunciamento do governador Paulo Câmara nesta sexta (27): https://youtu.be/LSvpp14kWXo
+    TECNOLOGIA | O Governo de Pernambuco, MPPE e o Porto Digital selecionaram oito
+    soluções tecnológicas vencedoras do Desafio Covid-19. Juntas, as selecionadas
+    receberão investimento de R$ 1,3 milhão para desenvolver soluções no menor tempo
+    e com o maior impacto possível. Com as novas ferramentas será possível, entre
+    outras atividades, monitorar as pessoas de grupos de risco. Saiba mais: https://bit.ly/33R8xvH
+    DOAÇÕES | Uma central de doações remota foi estruturada para auxiliar no atendimento
+    às necessidades da rede pública de saúde estadual. Os interessados em contribuir
+    poderão indicar os produtos disponíveis pelo e-mail doacoescovid19@addiper.pe.gov.br
+    ou comunicar-se pelos telefones 81 99488 2149 e 81 99488 3777. http://www.pe.gov.br/b/22231
+    DECRETOS E MEDIDAS | Em mais uma ação para conter o..."
+  link: http://www.pe.gov.br/b/22259
+  region: Nordeste
+  published_at: '2020-03-31 13:53:53'
+  state: PE
+  website: http://www.pe.gov.br/blog
+  source_name: Governo do Estado de Pernambuco
+- title: Pernambuco amplia testes para detectar o novo Coronavírus
+  description: "    Em parceria com o Instituto Aggeu Magalhães, Governo do Estado
+    vai triplicar a capacidade de testagem O Governo de Pernambuco, por meio da Secretaria
+    Estadual de Saúde (SES-PE), anunciou nesta terça-feira (31.03), a ampliação da
+    capacidade de testagem para a Covid-19 no Estado, possibilitando a realização
+    de exames nos profissionais de Saúde, da rede pública e privada, que estão trabalhando
+    diretamente com os pacientes suspeitos e confirmados para a doença, além das forças
+    de Segurança. A ampliação vai ser possível graças à parceria entre a SES-PE e
+    o Instituto Aggeu Magalhães (Fiocruz/PE), que possibilitará triplicar a capacidade
+    atual, saindo de  770 para 2.170 exames por semana, a depender do envio dos kits
+    pelo Ministério da Saúde (MS).  “Estamos tendo a oportunidade de ampliar a parceria
+    com o Instituto Aggeu Magalhães, que anteriormente já se dava no âmbito das pesquisas
+    na área de saúde. Atualmente, a Secretaria Estadual de Saúde tem a capacidade
+    de realizar em média 770 testes do Coronavírus por semana, a partir dessa cooperação
+    a gente vai poder triplicar o público que está testando”, ressaltou a secretária
+    executiva de Vigilância em Saúde, Luciana Albuquerque. Os testes serão os mesmos
+    já realizados atualmente pelo Laboratório Central de Saúde Pública de Pernambuco
+    (Lacen-PE), por meio da técnica RT-PCR, indicada para pacientes no início dos
+    sintomas (até 7 dias) e que analisa a presença do vírus ou parte dele na amostra
+    coletada. Os kits de testagem, nesta parceria, serão os encaminhados pelo Ministério
+    da Saúde, que anunciou a ampliação do envio..."
+  link: http://www.pe.gov.br/b/22260
+  region: Nordeste
+  published_at: '2020-03-31 13:56:24'
+  state: PE
+  website: http://www.pe.gov.br/blog
+  source_name: Governo do Estado de Pernambuco
+- title: Pernambuco amplia testes para detectar o novo Coronavírus
+  description: "  Em parceria com o Instituto Aggeu Magalhães, Governo do Estado vai
+    triplicar a capacidade de testagem O Governo de Pernambuco, por meio da Secretaria
+    Estadual de Saúde (SES-PE), anunciou nesta terça-feira (31.03), a ampliação da
+    capacidade de testagem para a Covid-19 no Estado, possibilitando a realização
+    de exames nos profissionais de Saúde, da rede pública e privada, que estão trabalhando
+    diretamente com os pacientes suspeitos e confirmados para a doença, além das forças
+    de Segurança. A ampliação vai ser possível graças à parceria entre a SES-PE e
+    o Instituto Aggeu Magalhães (Fiocruz/PE), que possibilitará triplicar a capacidade
+    atual, saindo de  770 para 2.170 exames por semana, a depender do envio dos kits
+    pelo Ministério da Saúde (MS).  “Estamos tendo a oportunidade de ampliar a parceria
+    com o Instituto Aggeu Magalhães, que anteriormente já se dava no âmbito das pesquisas
+    na área de saúde. Atualmente, a Secretaria Estadual de Saúde tem a capacidade
+    de realizar em média 770 testes do Coronavírus por semana, a partir dessa cooperação
+    a gente vai poder triplicar o público que está testando”, ressaltou a secretária
+    executiva de Vigilância em Saúde, Luciana Albuquerque. Os testes serão os mesmos
+    já realizados atualmente pelo Laboratório Central de Saúde Pública de Pernambuco
+    (Lacen-PE), por meio da técnica RT-PCR, indicada para pacientes no início dos
+    sintomas (até 7 dias) e que analisa a presença do vírus ou parte dele na amostra
+    coletada. Os kits de testagem, nesta parceria, serão os encaminhados pelo Ministério
+    da Saúde, que anunciou a ampliação do envio dos..."
+  link: http://www.pe.gov.br/b/22261
+  region: Nordeste
+  published_at: '2020-03-31 13:57:16'
+  state: PE
+  website: http://www.pe.gov.br/blog
+  source_name: Governo do Estado de Pernambuco
+- title: Funcultura da Música incentivou, nos últimos anos, mais de 40 discos de artistas
+    pernambucanos
+  description: Nos últimos três anos, por meio dos editais do Funcultura da Música,
+    foram aprovados, anualmente, uma média de cinquenta projetos culturais. Além dos
+    videoclipes, festivais, ocupação de espaços, de circulação, pesquisa e capacitação,
+    vários destes projetos incentivados pelo Governo de Pernambuco, por meio da Secretaria
+    Estadual de Cultura (Secult-PE) e Fundação do Patrimônio Histórico e Artístico
+    de Pernambuco (Fundarpe), envolveram a gravação de discos de artistas pernambucanos
+    que puderam produzir seus trabalhos autorais. Ao todo, foram mais de 40 discos
+    produzidos, e vários destes álbuns ou canções estão disponíveis para audição em
+    plataformas de streaming como o Spotify. Uma playlist produzida pela Secult-PE/Fundarpe
+    pode ser uma opção de lazer em casa, neste período de quarentena, em cumprimento
+    ao Decreto nº 48.832, com recomendações do Governo de Pernambuco para enfrentamento
+    do coronavírus (COVID-19).  Até 2016, os projetos culturais na área da música
+    em Pernambuco ainda eram incentivados pelo Funcultura Geral. Atendendo a uma demanda
+    da sociedade e da classe artística do estado, o Governo do Estado decidiu, naquele
+    ano, criar um edital específico que contemplasse a realidade do mercado da música
+    a nível estadual. “Foi uma grande conquista para o setor da música de Pernambuco
+    um edital específico do Funcultura, que está no seu quarto ano. Com ele, temos
+    um orçamento maior, quase o dobro do que era disponibilizado no Funcultura Geral.
+    Ganhamos também um novo formato na questão da análise dos projetos, e a defesa
+    oral dos projetos habilitados, auxiliando os pareceristas a definirem as iniciativas
+    a serem selecionadas”, destaca Andreza Portella, coordenadora...
+  link: http://www.pe.gov.br/b/22262
+  region: Nordeste
+  published_at: '2020-03-31 14:35:37'
+  state: PE
+  website: http://www.pe.gov.br/blog
+  source_name: Governo do Estado de Pernambuco
+- title: Governo do Estado vai repassar R$ 100 milhões a 377 Santas Casas e hospitais
+    municipais
+  description: Unidades terão capacidade de atendimento ampliada e vão liberar leitos
+    em serviços de maior complexidade para casos da COVID-19
+  link: https://www.saopaulo.sp.gov.br/ultimas-noticias/governo-do-estado-vai-repassar-r-100-milhoes-a-300-santas-casas-e-hospitais-municipais/
+  region: Sudeste
+  published_at: '2020-03-31 14:41:00'
+  state: SP
+  website: http://www.saopaulo.sp.gov.br/ultimas-noticias/
+  source_name: Governo do Estado de São Paulo
+- title: Governo do Estado vai repassar R$ 100 milhões a 300 Santas Casas e hospitais
+    municipais
+  description: Unidades terão capacidade de atendimento ampliada e vão liberar leitos
+    em serviços de maior complexidade para casos da COVID-19
+  link: https://www.saopaulo.sp.gov.br/ultimas-noticias/governo-do-estado-vai-repassar-r-100-milhoes-a-300-santas-casas-e-hospitais-municipais/
+  region: Sudeste
+  published_at: '2020-03-31 14:41:00'
+  state: SP
+  website: http://www.saopaulo.sp.gov.br/ultimas-noticias/
+  source_name: Governo do Estado de São Paulo
+- title: Hospital Vila Nova Nova amplia capacidade de leitos para atendimento de Covid-19
+  description: O governador Eduardo Leite visitou, na manhã desta terça-feira (31/3),
+    o complexo do Hospital Vila Nova, na zona sul de Porto Alegre. Uma das referências
+    no cuidado a pacientes suspeitos de coronavírus, a instituiçã...
+  link: https://saude.rs.gov.br/hospital-vila-nova-nova-sera-referencia-para-atendimento-de-covid-19
+  region: Sul
+  published_at: '2020-03-31 14:45:00'
+  state: RS
+  website: https://saude.rs.gov.br/noticias
+  source_name: Governo do Estado do Rio Grande do Sul - Secretaria da Saúde
+- title: SSP intensifica ações para conter expansão do novo coronavírus
+  description: Equipes mistas vão fiscalizar estabelecimentos que não estejam cumprindo
+    as determinações dos decretos estaduais e municipais sobre a aglomeração de pessoas
+    e a exposição aos riscos da covid-19. A ação ocorrerá todos os dias, inclusive
+    nos fins de semana, quando será ainda mais reforçada.
+  link: http://www.secom.ba.gov.br/2020/03/153086/SSP-intensifica-acoes-para-conter-expansao-do-novo-coronavirus-.html
+  region: Nordeste
+  published_at: '2020-03-31 14:52:00'
+  state: BA
+  website: http://www.secom.ba.gov.br/modules/noticias
+  source_name: Governo do Estado da Bahia - SECOM
+- title: Secretaria do Trabalho de Pernambuco abre inscrições para cursos gratuitos
+    em formato EaD
+  description: As inscrições começam a partir 1º de abril e vão até o dia 7   Em virtude
+    das medidas de isolamento social tomadas para o enfrentamento da Covid-19, o novo
+    Coronavírus, a Secretaria do Trabalho, Emprego e Qualificação de Pernambuco (SETEQ),
+    em parceria com a Secretaria de Educação e Esporte de Pernambuco (SEE), abre inscrições
+    para cursos gratuitos na modalidade de Educação à Distância (EaD). O novo formato
+    faz parte do programa Novos Talentos, que desde 2011 já capacitou mais de 30 mil
+    trabalhadores e empreendedores pernambucanos. As inscrições para os cursos EaD
+    irão iniciar, nesta quarta-feira (01), com prazo até terça-feira (07) da próxima
+    semana.  Já a abertura e início dos cursos serão na próxima quarta-feira (08). 
+      Segundo o secretário executivo do Trabalho e Qualificação, Álvaro Jordão, a
+    plataforma EaD do programa Novos Talentos disponibilizará, nesse primeiro momento,
+    os cursos de Introdução a Web Design, Edição e Processamento de imagens, Técnicas
+    de Vendas, Informática Básica, Técnicas de Atendimento ao Público.   Novos Talentos
+    EaD têm a missão de inovar e disponibilizar o que há de mais atual e dinâmico
+    ao trabalhador. O programa oferece cursos de aperfeiçoamento (até 100 horas-aula),
+    para quem deseja se qualificar numa profissão. Esta modalidade de ensino e aprendizagem
+    viabiliza a adequação às disponibilidades do aluno, seja de tempo ou de espaço,
+    dentro do moderno conceito de estar presente na maioria dos lugares. Para cada
+    curso, serão disponibilizadas 100 vagas, além de emissão de certificado ao final
+    para os alunos que cumprirem a carga...
+  link: http://www.pe.gov.br/b/22263
+  region: Nordeste
+  published_at: '2020-03-31 14:52:01'
+  state: PE
+  website: http://www.pe.gov.br/blog
+  source_name: Governo do Estado de Pernambuco
+- title: Secretário do Trabalho de Pernambuco defende agilidade do Governo Federal
+    na liberação do Auxílio Emergencial
+  description:   Vice-presidente do Fórum Nacional de Secretarias Estaduais do Trabalho
+    (Fonset) e representante do Nordeste, o secretário do Trabalho, Emprego e Qualificação
+    de Pernambuco, Alberes Lopes, solicitou, nesta terça-feira (31), mais celeridade
+    do Governo Federal na liberação de recursos para socorrer os profissionais autônomos
+    e micro e pequenos empreendedores neste período de quarentena e combate ao novo
+    Coronavírus. Ele falou sobre o assunto em teleconferência com representantes do
+    Ministério da Economia e secretários do trabalho de outros estados do Brasil e
+    mencionou as particularidades de Pernambuco. Somente no Estado, existe cerca de
+    1,8 milhão de trabalhadores informais, de acordo com a Pnad Contínua do quarto
+    trimestre de 2019. "É importante acelerar todos as etapas para que os autônomos
+    possam receber, o mais breve possível,  o valor de R$ 600 (o Auxílio Emergencial).
+    Isso se torna cada vez mais urgente, porque já estamos na segunda semana de quarentena.
+    É a União que detém recursos para atuar em momentos como este, justamente porque
+    temos uma partilha desigual e o Pacto Federativo até hoje não foi aprovado, mesmo
+    tendo sido uma reivindicação frequente desde 2014", disse Alberes Lopes.   Segundo
+    o secretário pernambucano, as Agências do Trabalho também entraram na pauta da
+    reunião do Fonset. Ele falou sobre a importância de o governo federal liberar
+    os devidos recursos para ajudar a manter as Agências do Trabalho em todas as unidades
+    da federação, mas ainda não recebeu um aval positivo, bem como os outros secretários
+    estaduais que atuam na mesma área.  "No caso de Pernambuco,...
+  link: http://www.pe.gov.br/b/22264
+  region: Nordeste
+  published_at: '2020-03-31 15:05:56'
+  state: PE
+  website: http://www.pe.gov.br/blog
+  source_name: Governo do Estado de Pernambuco
+- title: SSP intensifica ações para conter expansão do novo coronavírus
+  description: Ações preventivas contra a expansão do Covid-19 (novo Coronavírus)
+    nos bairros de Salvador serão reforçadas pela Polícia Militar (PMBA) a partir
+    desta terça-feira (31).
+  link: http://www.ba.gov.br/noticias/ssp-intensifica-acoes-para-conter-expansao-do-novo-coronavirus
+  region: Nordeste
+  published_at: '2020-03-31 15:11:00'
+  state: BA
+  website: http://www.ba.gov.br/noticias
+  source_name: Governo do Estado da Bahia
+- title: Chocolates Brasil Cacau doará ovos de chocolate para doadores de sangue do
+    Hemope
+  description: " \r\nCom o intuito de mostrar que, apesar de estarmos vivendo um momento
+    difícil, inclusive para o comércio, por causa do COVID-19, podemos ser solidários,
+    incentivando as doações de sangue, a Fundação Hemope, em parceria com a Chocolates
+    Brasil Cacau, vão presentear os doadores de sangue com ovos de chocolate. A ação
+    acontece na próxima quinta-feira (2 de abril) a partir das 9h.\r\n “Nesse momento,
+    sabemos que os estoques estão baixos, então estamos fazendo a nossa parte. Além
+    dos ovos, que serão entregues para os doadores, nós também vamos destinar uma
+    quantidade para a equipe que trabalha no atendimento do Hemope, visando valorizar
+    o trabalho dos profissionais nesta época“, destacou a coordenadora da ação e franqueada
+    das lojas do Shopping Recife, Guararapes e Patteo Olinda, Karla Menezes. Ao todo,
+    serão 420 ovos de chocolates que serão distribuídos (350 para doadores e 80 profissionais).\r\nA
+    ação segue a mesma estratégia que a franquia está fazendo em âmbito nacional.
+    \"Por reconhecermos a referência do trabalho do Hemope, escolhemos essa instituição
+    como forma de levar um pouco de gratidão, na forma de chocolate, para todos que
+    estão contribuindo\", reforçou Karla."
+  link: http://www.pe.gov.br/b/22265
+  region: Nordeste
+  published_at: '2020-03-31 15:15:22'
+  state: PE
+  website: http://www.pe.gov.br/blog
+  source_name: Governo do Estado de Pernambuco
+- title: BOLETIM COVID-19 SES-PE
+  description: 'Foto: Agência Brasil/EBC A Secretaria Estadual de Saúde (SES-PE) confirmou,
+    nesta terça-feira (31.03), mais 10 casos da Covid-19 em Pernambuco. Com a atualização,
+    o Estado contabiliza 87 ocorrências pelo novo coronavírus. Não houve nenhuma nova
+    morte confirmada nas últimas 24h, sendo 6 o número de óbitos registrados até agora.
+    De acordo com o boletim epidemiológico, dos 10 novos casos confirmados, 7 são
+    do sexo masculino, com idades entre 30 e 69 anos; e 3 do sexo feminino, na faixa etária
+    entre 30 e 70 anos. Dos pacientes, 6 são residentes do Recife, 2 de São Lourenço
+    da Mata, 1 de Ipubi, no Sertão do Araripe, além de 1 novo caso registrado em Fernando
+    de Noronha. Este é o 2o caso registrado na Ilha –contactante do 1o caso confirmado
+    na última sexta-feira (27.03). Até agora, os casos estão distribuídos por 11 municípios
+    (Recife, Jaboatão dos Guararapes, Olinda, Camaragibe, São Lourenço da Mata, Palmares,
+    Belo Jardim, Caruaru, Petrolina, Ipubi e Goiana), além do Arquipélago de Fernando
+    de Noronha e da ocorrência de pacientes em outros Estados e países. No momento,
+    23 pacientes estão internados, sendo 12 em UTI/ UCI e 11 em leitos de isolamento.
+    Outros 44 estão em isolamento domiciliar e 14 já se recuperaram da Covid-19. Recuperados
+    - Subiu para 14 a quantidade de pacientes considerados recuperados da doença.
+    A paciente, que teve cura clínica, é do sexo feminino, tem 97 anos e reside no
+    Recife. Arquipélago – Na última sexta-feira (27.03), foi confirmada a primeira
+    ocorrência no Arquipélago Fernando de Noronha. Um homem de 48 anos, funcionário
+    de uma empresa terceirizada, que permanece em isolamento...'
+  link: http://www.pe.gov.br/b/22266
+  region: Nordeste
+  published_at: '2020-03-31 15:30:03'
+  state: PE
+  website: http://www.pe.gov.br/blog
+  source_name: Governo do Estado de Pernambuco
+- title: Paraná registra 25 novos casos e chega a 185 confirmações da doença
+  description: Dados do boletim do coronavírus emitido pela Secretaria de Estado da
+    Saúde nesta terça-feira (31) confirmam 25 novos casos da doença no Paraná...
+  link: http://www.aen.pr.gov.br/modules/noticias/article.php?storyid=106408&tit=Parana-registra-25-novos-casos-e-chega-a-185-confirmacoes-da-doenca
+  region: Sul
+  published_at: '2020-03-31 15:37:00'
+  state: PR
+  website: http://www.aen.pr.gov.br/noticias.html
+  source_name: Governo do Estado do Paraná
+- title: Com apoio da Prefeitura, costureiras de Irecê produzem máscaras para distribuição
+    gratuita
+  description: |-
+    Costureiras da cidade de Irecê, no centro norte da Bahia, estão mobilizadas na confecção de máscaras de proteção contra o novo coronavírus (Covid-19). A ação é voluntária e está sendo coordenada pela Prefeitura do Município.
+
+     
+
+    “Mais de 40 profissionais já receberam material para produção desses itens em suas próprias residências.
+  link: http://www.ba.gov.br/noticias/com-apoio-da-prefeitura-costureiras-de-irece-produzem-mascaras-para-distribuicao-gratuita
+  region: Nordeste
+  published_at: '2020-03-31 15:38:00'
+  state: BA
+  website: http://www.ba.gov.br/noticias
+  source_name: Governo do Estado da Bahia
+- title: Boletim Sesacre desta terça-feira, 31, sobre o coronavírus
+  description: A Secretaria de Estado de Saúde do Acre (Sesacre), por meio do Departamento
+    de Vigilância em Saúde (DVS), registra mais um caso confirmado de coronavírus
+    no estado, nesta terça-feira, 31, com base nas informações do Centro de Infectologia
+    Charles Mérieux, em Rio Branco. O número de casos positivos subiu de 41 para 42,
+    e este […]
+  link: https://agencia.ac.gov.br/boletim-sesacre-desta-terca-feira-31-sobre-o-coronavirus/
+  region: Norte
+  published_at: '2020-03-31 15:42:45'
+  state: AC
+  website: https://agencia.ac.gov.br/categoria/noticias/
+  source_name: Governo do Estado do Acre
+- title: PGE, SSP, Seap, MPE e TJBA discutem medidas de prevenção ao coronavírus nos
+    presídios
+  description: Em reunião realizada na tarde de segunda-feira(30), representantes
+    da Procuradoria Geral do Estado (PGE), da Secretaria de Segurança Pública (SSP),
+    da Secretaria de Administração Penitenciária, do Ministério Público Estadual (MPE)
+    e do Tribunal de Justiça da Bahia (TJ-BA) discutiram as medidas a serem adotadas
+    para conter a propagação do coronavírus no Sistema Prisional da Bahia.
+  link: http://www.secom.ba.gov.br/2020/03/153088/PGE-SSP-Seap-MPE-e-TJBA-discutem-medidas-de-prevencao-ao-coronavirus-nos-presidios.html
+  region: Nordeste
+  published_at: '2020-03-31 16:10:00'
+  state: BA
+  website: http://www.secom.ba.gov.br/modules/noticias
+  source_name: Governo do Estado da Bahia - SECOM
+- title: Museus de Minas oferecem entretenimento on-line durante pandemia
+  description: Em tempos desafiadores por conta dos impactos do Covid-19, o isolamento
+    necessário não significa afastamento total das atividades culturais. Graças...
+  link: http://www.agenciaminas.mg.gov.br/noticia/museus-de-minas-oferecem-entretenimento-on-line-durante-pandemia
+  region: Sudeste
+  published_at: '2020-03-31 16:10:00'
+  state: MG
+  website: http://www.agenciaminas.mg.gov.br/noticias
+  source_name: Governo do Estado de Minas Gerais
+- title: Confirmado segundo caso de Covid-19 em Noronha
+  description: Foi confirmado na tarde desta terça-feira,31, mais um caso de Covid-19
+    em Fernando de Noronha. Trata-se de uma pessoa que esteve em contato com o primeiro
+    paciente contaminado. Esse novo paciente é homem, tem 36 anos e também é funcionário
+    do aeroporto. O paciente está assintomático, ou seja, não apresenta os sintomas
+    da doença, mas pode transmitir para outras pessoas. Ele permanece isolado e cumprirá
+    a quarentena de 14 dias.   Desde a confirmação do primeiro caso, 16 pessoas que
+    tiveram contato com o paciente foram colocadas em isolamento e testadas para coronavírus.
+    Destas, apenas uma recebeu resultado positivo para Covid-19. Outras 14 testaram
+    negativo e uma teve resultado inconclusivo e terá o exame refeito.    O fato do
+    novo paciente ser assintomático só reforça a necessidade do isolamento social.
+    Pessoas podem carregar o vírus sem ter conhecimento disso e assim contaminar outras
+    pessoas. Portanto segue a orientação para que todos fiquem em casa, como explica
+    o administrador da ilha, Guilherme Rocha.   “Esse caso da pessoa estar assintomática,
+    significa que a gente precisa ficar em casa. Porque podem existir outras sem sintomas,
+    mas que podem estar com o vírus. Aí está a resposta do porquê fechamos escola,
+    comércio. O principal vetor de transmissão são pessoas fora da zona de risco e
+    sem sintomas”, diz Guilherme.   Para evitar uma propagação da doença na ilha,
+    todos os moradores e servidores que desembarcam no aeroporto estão passando por
+    uma quarentena obrigatória. “Entre a pessoa se contaminar e apresentar os sintomas,
+    existe...
+  link: http://www.pe.gov.br/b/22267
+  region: Nordeste
+  published_at: '2020-03-31 16:25:57'
+  state: PE
+  website: http://www.pe.gov.br/blog
+  source_name: Governo do Estado de Pernambuco
+- title: Fundo Social doa cestas básicas e sabonetes para famílias de Paraisópolis
+    e Heliópolis
+  description: Entrega dos primeiros lotes faz parte das ações do Governo do Estado
+    para ajudar pessoas durante combate à pandemia do novo coronavírus
+  link: https://www.saopaulo.sp.gov.br/spnoticias/fundo-social-doa-cestas-basicas-e-sabonetes-para-familias-de-paraisopolis-e-heliopolis/
+  region: Sudeste
+  published_at: '2020-03-31 16:29:00'
+  state: SP
+  website: http://www.saopaulo.sp.gov.br/ultimas-noticias/
+  source_name: Governo do Estado de São Paulo
+- title: Estado planeja usar Arena e 109 leitos do PS para pacientes com coronavírus
+  description: Hoje, a UPA do Segundo Distrito, unidade de referência para pacientes
+    com Covid-19, oferece 40 leitos para atendimento a pessoas em estado moderado
+  link: https://agencia.ac.gov.br/estado-planeja-usar-arena-e-109-leitos-do-ps-para-pacientes-com-coronavirus/
+  region: Norte
+  published_at: '2020-03-31 16:30:29'
+  state: AC
+  website: https://agencia.ac.gov.br/categoria/noticias/
+  source_name: Governo do Estado do Acre
+- title: No Sertão, Detran-PE arrecada donativos para vítimas das chuvas
+  description: "Diante das fortes chuvas que caíram recentemente no Sertão Pernambucano,
+    e do rompimento da barragem Zumbi, no município de Arcoverde, o Departamento de
+    Trânsito de Pernambuco (Detran-PE) desenvolveu campanha para arrecadação de donativos
+    destinados à população desabrigada da cidade. Por meio da Diretoria de Fiscalização/DTFO
+    – Operações de Trânsito, a ação, que envolveu agentes de trânsito da cidade, arrecadou
+    alimentos, produtos de limpeza, descartáveis e outros mantimentos necessários
+    para enfrentar o período em desabrigo, como também, prevenir a contaminação pelo
+    coronavírus.\r\nA coleta das doações foi coordenada pelo agente de trânsito Hemannuel
+    Figueiredo, que reuniu donativos com ajuda de um grupo de estudantes da Autarquia
+    de Ensino Superior de Arcoverde/Centro de Ensino Superior de Arcoverde (AESA-CESA).
+    Os alunos, do 3º período do curso de Direito, ficaram encarregados de juntar os
+    produtos, que posteriormente são distribuídos nas comunidades carentes, com o
+    apoio de viaturas e agentes do Detran-PE.\r\nCom as chuvas nas regiões Agreste
+    e Sertão, ocorridas principalmente nos últimos dias, 16 barragens e alguns riachos
+    transbordaram, conforme divulgado pela Imprensa. Com isso, dezenas de famílias
+    estão desabrigadas ou ilhadas. Além de Arcoverde, foram atingidos pelas chuvas
+    os municípios de Serra Talhada, Afogados da Ingazeira, Sertânia, Carnaíba e Terra
+    Nova. Também foram registradas quedas de árvores e destruição de rodovias. Outras
+    barragens estão com a capacidade no limite e podem transbordar se ocorrer continuidade
+    das chuvas."
+  link: http://www.pe.gov.br/b/22268
+  region: Nordeste
+  published_at: '2020-03-31 16:31:01'
+  state: PE
+  website: http://www.pe.gov.br/blog
+  source_name: Governo do Estado de Pernambuco
+- title: PGE, SSP, Seap, MPE e TJBA discutem medidas de prevenção ao coronavírus nos
+    presídios
+  description: Em reunião realizada na tarde de segunda-feira (30), representantes
+    da Procuradoria Geral do Estado (PGE), da Secretaria de Segurança Pública (SSP),
+    da Secretaria de Administração Penitenciária, do Ministério Público Estadual (MPE)
+    e do Tribunal de Justiça da Bahia (TJ-BA) discutiram as medidas a serem adotadas
+    para conter a propagação do coronavírus no Sistema Prisional da Bahia.
+  link: http://www.ba.gov.br/noticias/pge-ssp-seap-mpe-e-tjba-discutem-medidas-de-prevencao-ao-coronavirus-nos-presidios
+  region: Nordeste
+  published_at: '2020-03-31 16:34:00'
+  state: BA
+  website: http://www.ba.gov.br/noticias
+  source_name: Governo do Estado da Bahia
+- title: Judiciário, Legislativo e órgãos autônomos devolverão R$ 150 milhões para
+    enfrentamento do coronavírus
+  description: O governador Eduardo Leite agradeceu aos Poderes Judiciário, Legislativo
+    e órgãos autônomos do Rio Grande do Sul pela devolução ao Executivo de R$ 150
+    milhões para o enfrentamento ao coronavírus.
+  link: https://estado.rs.gov.br/judiciario-legislativo-e-orgaos-autonomos-devolverao-r-150-milhoes-para-enfrentamento-do-coronavirus
+  region: Sul
+  published_at: '2020-03-31 16:48:00'
+  state: RS
+  website: https://estado.rs.gov.br/ultimas-noticias
+  source_name: Governo do Estado do Rio Grande do Sul
+- title: Roteiros de estudos são disponibilizados para auxiliar estudantes durante
+    a quarentena
+  description: A Secretaria da Educação do Estado disponibilizou, no Portal da Educação,
+    sugestões de roteiros de estudos para os estudantes do 6º ano do Ensino Fundamental
+    ao 3º ano do Ensino Médio, para o período de suspensão das aulas, ocasionado pelo
+    combate ao Coronavírus (COVID-19). Os roteiros foram elaborados voluntariamente
+    por professores da rede estadual, por área do conhecimento, e apresentam uma proposta
+    de cronograma para a realização dos exercícios.
+  link: http://www.ba.gov.br/noticias/roteiros-de-estudos-sao-disponibilizados-para-auxiliar-estudantes-durante-quarentena
+  region: Nordeste
+  published_at: '2020-03-31 17:16:00'
+  state: BA
+  website: http://www.ba.gov.br/noticias
+  source_name: Governo do Estado da Bahia
+- title: Estado distribui 710 mil máscaras a profissionais de saúde no RS
+  description: A Secretaria da Saúde distribuiu, nesta terça-feira (31), mais um lote
+    de Equipamentos de Proteção Individual (EPIs) para prevenção dos profissionais
+    que atuam no atendimento a pacientes de Covid-19 no Rio Grande d...
+  link: https://saude.rs.gov.br/estado-distribui-710-mil-mascaras-a-profissionais-de-saude-no-rs
+  region: Sul
+  published_at: '2020-03-31 17:24:00'
+  state: RS
+  website: https://saude.rs.gov.br/noticias
+  source_name: Governo do Estado do Rio Grande do Sul - Secretaria da Saúde
+- title: Paraíba tem primeiro óbito confirmado por Covid-19
+  description: A Secretaria de Estado da Saúde (SES) comunicou, na tarde desta terça-feira
+    (31), o primeiro óbito confirmado por coronavírus (Covid-19) na Paraíba. Trata-se
+    de um homem de 36 anos, com diabetes, residente do município de Patos e que estava
+    internado na UTI do Complexo Hospitalar Clementino Fraga. 
+  link: https://paraiba.pb.gov.br/noticias/paraiba-tem-primeiro-obito-confirmado-por-covid-19
+  region: Nordeste
+  published_at: '2020-03-31 17:29:00'
+  state: PB
+  website: https://paraiba.pb.gov.br/noticias
+  source_name: Governo do Estado da Paraíba
+- title: Governo e secretários municipais alinham ações contra a Covid-19
+  description: Saiba mais...
+  link: http://www.aen.pr.gov.br/modules/noticias/article.php?storyid=106412&tit=Governo-e-secretarios-municipais-alinham-acoes-contra-a-Covid-19
+  region: Sul
+  published_at: '2020-03-31 17:53:00'
+  state: PR
+  website: http://www.aen.pr.gov.br/noticias.html
+  source_name: Governo do Estado do Paraná
+- title: Bahia registra total de 217 confirmações de Covid-19
+  description: A Bahia registra 217 casos confirmados do novo coronavírus (Covid-19),
+    o que representa 3,7% do total de casos notificados. Até o momento, 1393 casos
+    foram descartados e houve dois óbitos, ambos de pessoas residentes em
+  link: http://www.saude.ba.gov.br/2020/03/31/bahia-registra-total-de-217-confirmacoes-de-covid-19/
+  region: Nordeste
+  published_at: '2020-03-31 18:01:00'
+  state: BA
+  website: http://www.saude.ba.gov.br/noticias
+  source_name: Governo do Estado da Bahia - Secretaria da Saúde
+- title: Efeitos do coronavírus adiam cobrança de novas tarifas de pedágio da EGR
+    para junho
+  description: As mudanças nas tarifas de pedágio da Empresa Gaúcha de Rodovias (EGR),
+    inicialmente previstas para abril, começarão a valer em junho. A prorrogação teve
+    como motivo os efeitos da pandemia do novo coronavírus.
+  link: https://estado.rs.gov.br/efeitos-do-coronavirus-adiam-cobranca-de-novas-tarifas-de-pedagio-da-egr-para-junho
+  region: Sul
+  published_at: '2020-03-31 18:09:00'
+  state: RS
+  website: https://estado.rs.gov.br/ultimas-noticias
+  source_name: Governo do Estado do Rio Grande do Sul
+- title: Bahia registra total de 217 confirmações de Covid-19
+  description: Ao todo, 17 pessoas estão curadas e 42 encontram-se internadas. Dentre
+    os casos confirmados, 54,38% são do sexo masculino e 45,62% do sexo feminino.
+    O coeficiente de incidência por 100 mil habitantes foi maior na faixa de 70 a
+    79 anos (3,44), indicando o maior risco de adoecer entre os idosos.
+  link: http://www.secom.ba.gov.br/2020/03/153091/Bahia-registra-total-de-217-confirmacoes-de-Covid-19.html
+  region: Nordeste
+  published_at: '2020-03-31 18:10:00'
+  state: BA
+  website: http://www.secom.ba.gov.br/modules/noticias
+  source_name: Governo do Estado da Bahia - SECOM
+- title: Com uma morte por hora, SP registra recorde de óbitos em apenas um dia por
+    coronavírus
+  description: Ao todo são 136 mortes até esta terça-feira; Campinas e outras 3 cidades
+    da Grande SP passam a registrar pelo menos 1 vítima fatal
+  link: https://www.saopaulo.sp.gov.br/spnoticias/com-uma-morte-por-hora-sp-registra-recorde-de-obitos-em-apenas-um-dia-por-coronavirus/
+  region: Sudeste
+  published_at: '2020-03-31 18:20:00'
+  state: SP
+  website: http://www.saopaulo.sp.gov.br/ultimas-noticias/
+  source_name: Governo do Estado de São Paulo
+- title: Bahia registra total de 217 confirmações de Covid-19
+  description: A Bahia registra 217 casos confirmados do novo coronavírus (Covid-19),
+    o que representa 3,7% do total de casos notificados no país. Até o momento, 1393
+    casos foram descartados e houve dois óbitos, ambos de pessoas residentes em Salvador
+    que apresentavam comorbidades associadas. Esse número contabiliza todos os registros
+    de janeiro até as 17h desta terça-feira (31).
+  link: http://www.ba.gov.br/noticias/bahia-registra-total-de-217-confirmacoes-de-covid-19
+  region: Nordeste
+  published_at: '2020-03-31 18:24:00'
+  state: BA
+  website: http://www.ba.gov.br/noticias
+  source_name: Governo do Estado da Bahia
+- title: Confira as medidas adotadas nos últimos seis dias contra o coronavírus
+  description: O Governo do Estado instituiu nos últimos seis dias mais uma série
+    de medidas para evitar aglomerações, acelerar a resposta da administração pública
+    e conter os avanços do novo coronavírus (Covid-19) no Paraná...
+  link: http://www.aen.pr.gov.br/modules/noticias/article.php?storyid=106414&tit=Confira-as-medidas-adotadas-nos-ultimos-seis-dias-contra-o-coronavirus
+  region: Sul
+  published_at: '2020-03-31 18:31:00'
+  state: PR
+  website: http://www.aen.pr.gov.br/noticias.html
+  source_name: Governo do Estado do Paraná
+- title: Agricultura familiar segue produzindo alimentos nutritivos e saudáveis
+  description: |-
+    Nesta terça-feira (31) é comemorado o Dia da Saúde e Nutrição e é preciso lembrar da prática da boa alimentação diária, principalmente neste período em que o mundo enfrenta a pandemia gerada pelo novo coronavírus. A agricultura familiar é protagonista neste dia, pois produz alimentação saudável, sendo responsável por quase 80% do que chega à mesa da população, e não parou de trabalhar para abastecê-la. 
+
+     
+
+    A Cooperativa Agropecuária Mista Regional de Irecê (Copirecê) segue funcionando.
+  link: http://www.ba.gov.br/noticias/agricultura-familiar-segue-produzindo-alimentos-nutritivos-e-saudaveis
+  region: Nordeste
+  published_at: '2020-03-31 18:34:00'
+  state: BA
+  website: http://www.ba.gov.br/noticias
+  source_name: Governo do Estado da Bahia
+- title: Governador Paulo Câmara anuncia medidas para incentivar o setor produtivo
+    do Estado
+  description: Decreto e outras ações prorrogam prazos fiscais e contábeis e suspendem
+    execuções e fiscalizações por um período de 90 dias. Governo tomou como base estudos
+    do Comitê Estadual Socioeconômico de Enfrentamento criado para articular medidas
+    conjuntas de enfrentamento aos efeitos da Covid-19 na economia. O Governo de Pernambuco,
+    através da Secretaria da Fazenda, na busca por alternativas para reduzir os efeitos
+    da crise na economia estadual provocada pela pandemia do novo Coronavírus está
+    tomando uma série de medidas que irão impactar diretamente sobre o setor produtivo.
+    Entre as deliberações previstas estão prorrogação de prazos relativos ao cumprimento
+    de obrigações tributárias e contestações, suspensão de execuções fiscais e notificações
+    de débitos.  No Decreto, o Governo “prorroga para 30 de junho os prazos vencidos
+    a partir de 21 de março de 2020, relativos ao cumprimento de obrigações tributárias
+    acessórias previstas na Legislação Estadual e à contestação do débito constante”.
+    O texto também determina a suspensão, pelo mesmo período, da emissão de Notificação
+    de Débito e Notificação de Débito sem Penalidade e dos procedimentos que visem
+    ao descredenciamento dos contribuintes do ICMS relativas às diversas sistemáticas
+    especiais de tributação. A Secretaria da Fazenda do Estado, de acordo com o Decreto,
+    irá determinar o alongamento do prazo de validade de certidões de regularidade
+    fiscal e negativa e a suspensão de ações de execução fiscal. O Governo também
+    vai permitir a importação e desembaraço de insumos em aeroportos ou portos, sem
+    prejuízo aos incentivos fiscais do Prodepe e Proind. As fiscalizações aos estabelecimentos
+    comerciais, cujas...
+  link: http://www.pe.gov.br/b/22270
+  region: Nordeste
+  published_at: '2020-03-31 18:45:11'
+  state: PE
+  website: http://www.pe.gov.br/blog
+  source_name: Governo do Estado de Pernambuco
