@@ -10617,6 +10617,19 @@
   state: PB
   website: https://paraiba.pb.gov.br/noticias
   source_name: Governo do Estado da Paraíba
+- title: Bancada federal reforça destinação de emendas para governo e prefeituras
+    no combate ao coronavírus
+  description: Deputados federais e senadores acreanos asseguraram ao governador Gladson
+    Cameli nesta terça-feira, 31, apoio irrestrito ao Governo do Estado e às 22 prefeituras
+    municipais na destinação de emendas para ajudar nas ações de combate à pandemia
+    do novo coronavírus. A garantia foi dada pelos deputados federais Alan Rick, Jéssica
+    Sales, Manuel Marcos, Perpétua Almeida e […]
+  link: https://agencia.ac.gov.br/bancada-federal-reforca-destinacao-de-emendas-para-governo-e-prefeituras-no-combate-ao-coronavirus/
+  region: Norte
+  published_at: '2020-03-31 17:46:23'
+  state: AC
+  website: https://agencia.ac.gov.br/categoria/noticias/
+  source_name: Governo do Estado do Acre
 - title: Governo e secretários municipais alinham ações contra a Covid-19
   description: Saiba mais...
   link: http://www.aen.pr.gov.br/modules/noticias/article.php?storyid=106412&tit=Governo-e-secretarios-municipais-alinham-acoes-contra-a-Covid-19
@@ -10679,6 +10692,16 @@
   state: BA
   website: http://www.ba.gov.br/noticias
   source_name: Governo do Estado da Bahia
+- title: Confira medidas adotadas pelo Governo nos últimos seis dias
+  description: O Governo do Estado instituiu nos últimos seis dias mais uma série
+    de medidas para evitar aglomerações, acelerar a resposta da administração pública
+    e conter os avanços do novo coronavírus (Covid-19) no Paraná...
+  link: http://www.aen.pr.gov.br/modules/noticias/article.php?storyid=106414&tit=Confira-medidas-adotadas-pelo-Governo-nos-ultimos-seis-dias
+  region: Sul
+  published_at: '2020-03-31 18:31:00'
+  state: PR
+  website: http://www.aen.pr.gov.br/noticias.html
+  source_name: Governo do Estado do Paraná
 - title: Confira as medidas adotadas nos últimos seis dias contra o coronavírus
   description: O Governo do Estado instituiu nos últimos seis dias mais uma série
     de medidas para evitar aglomerações, acelerar a resposta da administração pública
@@ -10731,3 +10754,400 @@
   state: PE
   website: http://www.pe.gov.br/blog
   source_name: Governo do Estado de Pernambuco
+- title: Fundação Procon-SP registra mais de 8 mil atendimentos ligados à COVID-19
+  description: Clientes com dificuldade para contatar empresas devem procurar canais
+    de atendimento a distância do órgão estadual
+  link: https://www.saopaulo.sp.gov.br/ultimas-noticias/fundacao-procon-sp-registra-mais-de-8-mil-atendimentos-ligados-a-covid-19/
+  region: Sudeste
+  published_at: '2020-03-31 19:32:00'
+  state: SP
+  website: http://www.saopaulo.sp.gov.br/ultimas-noticias/
+  source_name: Governo do Estado de São Paulo
+- title: '#47 | Boletim "Pernambuco Contra o Coronavírus"'
+  description: "  CORONAVÍRUS | Pernambuco tem mais dez casos da Covid-19 confirmados
+    nesta terça-feira (31), totalizando 87. Não houve nenhuma nova morte confirmada
+    nas últimas 24h, sendo 6 o número de óbitos registrados até agora. Entre os novos
+    casos confirmados, 6 são residentes do Recife, 2 de São Lourenço da Mata, 1 de
+    Ipubi, no Sertão do Araripe, além de 1 de Fernando de Noronha (este é o 2º caso
+    registrado na Ilha). Até agora, os casos estão distribuídos por 11 municípios
+    do Estado, além do Arquipélago de Fernando de Noronha e da ocorrência de pacientes
+    em outros Estados e países. No momento, 23 pacientes estão internados, sendo 12
+    em UTI/ UCI e 11 em leitos de isolamento. Outros 44 estão em isolamento domiciliar
+    e 14 já se recuperaram da Covid-19. TESTES | Uma parceria entre o Governo de Pernambuco
+    e o Instituto Aggeu Magalhães (Fiocruz) ampliará em até 180% a capacidade de testagem
+    do Novo Coronavírus no Estado. Com isso, a Secretaria Estadual de Saúde conseguirá
+    fazer cerca de 2.170 exames por semana, a depender do envio dos kits pelo Ministério
+    da Saúde, o que possibilita testar os profissionais de saúde, da rede pública
+    e privada, que estão trabalhando diretamente com os pacientes suspeitos e confirmados
+    da Covid-10, além das forças de segurança. GANHE O MUNDO | O Governo de Pernambuco
+    está acompanhando atentamente os estudantes que estão fazendo intercâmbio pelo
+    Programa Ganhe o Mundo, para que estejam em segurança durante a pandemia do Novo
+    Coronavírus. A decisão, atualmente, é..."
+  link: http://www.pe.gov.br/b/22271
+  region: Nordeste
+  published_at: '2020-03-31 19:52:26'
+  state: PE
+  website: http://www.pe.gov.br/blog
+  source_name: Governo do Estado de Pernambuco
+- title: Mais de R$ 50 milhões em emendas de deputados estaduais serão direcionados
+    ao combate do Covid-19
+  description: O líder do governo na Assembleia Legislativa, deputado Frederico Antunes,
+    confirmou ao governador Eduardo Leite, nesta quarta-feira (31/3), a destinação
+    de mais de R$ 50 milhões em emendas parlamentares estaduais para o combate à pandemia
+    da Covid-19.
+  link: https://estado.rs.gov.br/mais-de-r-50-milhoes-em-emendas-de-deputados-estaduais-serao-direcionados-ao-combate-do-covid-19
+  region: Sul
+  published_at: '2020-03-31 19:56:00'
+  state: RS
+  website: https://estado.rs.gov.br/ultimas-noticias
+  source_name: Governo do Estado do Rio Grande do Sul
+- title: Governador requisita administrativamente hospital em Itabuna para tratar
+    pacientes da Covid-19
+  description: O Hospital São Lucas dispõe de 100 leitos e, deste total, 20 serão
+    usados como UTI. Localizada no sul da Bahia, Itabuna tem uma população de aproximadamente
+    200 mil habitantes e, até o momento, dois casos de coronavírus foram confirmados
+    no município. A previsão é de que nas próximas semanas a unidade hospitalar esteja
+    apta a receber pacientes.
+  link: http://www.secom.ba.gov.br/2020/03/153093/Governador-requisita-administrativamente-hospital-em-Itabuna-para-tratar-pacientes-da-Covid-19.html
+  region: Nordeste
+  published_at: '2020-03-31 20:07:00'
+  state: BA
+  website: http://www.secom.ba.gov.br/modules/noticias
+  source_name: Governo do Estado da Bahia - SECOM
+- title: Governo prorroga suspensão de aulas e segue no combate contra coronavírus
+    na terça-feira (31/3)
+  description: O governo do Estado seguiu trabalhando nesta terça-feira (31/3) para
+    combater a pandemia do coronavírus no Rio Grande do Sul.
+  link: https://estado.rs.gov.br/governo-prorroga-suspensao-de-aulas-e-segue-no-combate-contra-coronavirus-na-terca-feira-31-3
+  region: Sul
+  published_at: '2020-03-31 20:10:00'
+  state: RS
+  website: https://estado.rs.gov.br/ultimas-noticias
+  source_name: Governo do Estado do Rio Grande do Sul
+- title: Governador requisita administrativamente hospital em Itabuna para tratar
+    pacientes da Covid-19
+  description: O Governo do Estado requisitou administrativamente, nesta terça-feira
+    (31), o Hospital São Lucas, em Itabuna, para que seja utilizado no tratamento
+    de pacientes com diagnóstico confirmado do novo coronavírus.
+  link: http://www.ba.gov.br/noticias/governador-requisita-administrativamente-hospital-em-itabuna-para-tratar-pacientes-da
+  region: Nordeste
+  published_at: '2020-03-31 20:18:00'
+  state: BA
+  website: http://www.ba.gov.br/noticias
+  source_name: Governo do Estado da Bahia
+- title: Pernambuco cria estratégia para apoiar população em vulnerabilidade social
+  description: "  Novo serviço vai atender até 500 pessoas diariamente durante a semana.
+    População vulnerável vai receber refeições, banho e material de higiene A campanha
+    Pernambuco Solidário contra o Coronavírus, do Governo de Pernambuco, tem novas
+    estratégias para fortalecer as ações em benefício da população, com atenção às
+    pessoas em vulnerabilidade social. O Estado iniciou nesta terça-feira (31/03),
+    no bairro do Recife Antigo, a ação Pontos de Cuidado, que conta com apoio de voluntários
+    e tem como finalidade proporcionar instalações para a população tomar banho, receber
+    alimentação e ter orientações sobre como se prevenir da Covid-19.  A estrutura
+    e os serviços preveem o atendimento de até 500 pessoas por dia, durante toda a
+    semana. No turno da manhã o atendimento será das 07h às 10h, e no turno da noite,
+    das 18h às 20h. O Estado terá quatro Pontos de Cuidado, que estão sendo instalados
+    nos municípios de Recife, Jaboatão dos Guararapes, Olinda e Paulista. O primeiro
+    ponto começou a funcionar no Armazém 14, no bairro do Recife Antigo. Os outros
+    pontos aguardam definição por parte das prefeituras. “Hoje começamos uma ação
+    importante de prevenção com a população de rua, no primeiro Ponto de Cuidado que
+    foi aberto no bairro do Recife, através de uma parceria do Governo com a Prefeitura
+    do Recife. As pessoas mais vulneráveis estão tendo essa oportunidade de encontrar
+    um local para fazer a sua higiene pessoal, tomar um banho, fazer uma refeição
+    e receber roupas limpas. Já estamos fazendo o contato com as prefeituras para
+    ampliar..."
+  link: http://www.pe.gov.br/b/22272
+  region: Nordeste
+  published_at: '2020-03-31 21:22:14'
+  state: PE
+  website: http://www.pe.gov.br/blog
+  source_name: Governo do Estado de Pernambuco
+- title: Comitê econômico entre governo e setor privado discute enfrentamento à pandemia
+    de Covid-19
+  description: Estado atua em três frentes:prevenção e contenção da doença, assistência
+    social e retomada da economia acreana
+  link: https://agencia.ac.gov.br/comite-economico-entre-governo-e-setor-privado-discute-enfrentamento-a-pandemia-de-covid-19/
+  region: Norte
+  published_at: '2020-04-01 07:57:04'
+  state: AC
+  website: https://agencia.ac.gov.br/categoria/noticias/
+  source_name: Governo do Estado do Acre
+- title: 'COVID-19: Cetesb constata diminuição da poluição em SP durante a quarentena'
+  description: Desde 20 de março, companhia tem registrado, em estações de monitoramento
+    da região, qualidade do ar boa para poluentes primários
+  link: https://www.saopaulo.sp.gov.br/ultimas-noticias/covid-19-cetesb-constata-diminuicao-da-poluicao-em-sp-durante-a-quarentena/
+  region: Sudeste
+  published_at: '2020-04-01 08:26:00'
+  state: SP
+  website: http://www.saopaulo.sp.gov.br/ultimas-noticias/
+  source_name: Governo do Estado de São Paulo
+- title: Planserv implanta central de atendimento sobre o novo coronavírus
+  description: Os beneficiários do Planserv contam, a partir desta quarta-feira (1º
+    de abril), com uma Central de Teleorientação exclusiva para prestar informações
+    e orientações, além de tirar dúvidas sobre o contágio e sintomas do novo coronavírus.
+    A central atende pelo 3402-3702 (ligações de telefone fixo e celular). O atendimento
+    será realizado de segunda a sexta-feira, das 7h às 22h.
+  link: http://www.secom.ba.gov.br/2020/04/153096/Planserv-implanta-central-de-atendimento-sobre-o-novo-coronavirus.html
+  region: Nordeste
+  published_at: '2020-04-01 08:43:00'
+  state: BA
+  website: http://www.secom.ba.gov.br/modules/noticias
+  source_name: Governo do Estado da Bahia - SECOM
+- title: "Em Assaí, escola estadual\r\nproduz máscaras-escudo"
+  description: A equipe do Centro Estadual de Educação Profissional (Ceep) Maria Lydia
+    Cescato Bomtempo, em Assaí, no Norte Pioneiro, está empenhada na prevenção ao
+    coronavírus...
+  link: http://www.aen.pr.gov.br/modules/noticias/article.php?storyid=106413&tit=Em-Assai-escola-estadual-produz-mascaras-escudo
+  region: Sul
+  published_at: '2020-04-01 09:00:00'
+  state: PR
+  website: http://www.aen.pr.gov.br/noticias.html
+  source_name: Governo do Estado do Paraná
+- title: Planserv implanta central de atendimento sobre o novo coronavírus
+  description: Os beneficiários do Planserv contam, a partir desta quarta-feira (1º
+    de abril), com uma Central de Teleorientação exclusiva para prestar informações
+    e orientações, além de tirar dúvidas sobre o contágio e sintomas do novo coronavírus.
+    A central atende pelo 3402-3702 (ligações de telefone fixo e celular).
+  link: http://www.ba.gov.br/noticias/planserv-implanta-central-de-atendimento-sobre-o-novo-coronavirus
+  region: Nordeste
+  published_at: '2020-04-01 09:01:00'
+  state: BA
+  website: http://www.ba.gov.br/noticias
+  source_name: Governo do Estado da Bahia
+- title: "Saúde quer ampliar parcerias no\r\nenfrentamento ao coronavírus"
+  description: Saiba mais...
+  link: http://www.aen.pr.gov.br/modules/noticias/article.php?storyid=106416&tit=Saude-quer-ampliar-parcerias-no-enfrentamento-ao-coronavirus
+  region: Sul
+  published_at: '2020-04-01 09:10:00'
+  state: PR
+  website: http://www.aen.pr.gov.br/noticias.html
+  source_name: Governo do Estado do Paraná
+- title: Comitê Científico divulga documento para esclarecer diferenças entre os testes
+    de detecção do coronavírus
+  description: O Comitê Científico gaúcho de apoio ao enfrentamento da pandemia da
+    Covid-19 divulgou um documento sobre os testes de diagnóstico para detectar o
+    novo coronavírus e as defesas do organismo.
+  link: https://estado.rs.gov.br/comite-cientifico-publica-documento-sobre-testes-de-diagnostico-para-detectar-o-novo-coronavirus
+  region: Sul
+  published_at: '2020-04-01 09:52:00'
+  state: RS
+  website: https://estado.rs.gov.br/ultimas-noticias
+  source_name: Governo do Estado do Rio Grande do Sul
+- title: Governo de SP anuncia novas medidas para intensificar o combate ao coronavírus
+  description: Coletiva de imprensa desta quarta-feira (1º) ocorrerá a partir de 12h30
+    no Palácio dos Bandeirantes, na capital
+  link: https://www.saopaulo.sp.gov.br/spnoticias/governo-de-sp-anuncia-novas-medidas-para-intensificar-o-combate-ao-coronavirus-4/
+  region: Sudeste
+  published_at: '2020-04-01 10:19:00'
+  state: SP
+  website: http://www.saopaulo.sp.gov.br/ultimas-noticias/
+  source_name: Governo do Estado de São Paulo
+- title: Videoaulas sobre economia criativa e empreendedorismo cultural estão disponíveis
+    gratuitamente
+  description: Quem está ficando em casa em função do isolamento social para evitar
+    a proliferação do Covid-19, e tem interesse no campo cultural, pode aproveitar
+    como uma oportunidade para adquirir mais conhecimentos online. Com o intuito de
+    qualificar os agentes culturais, a Secretaria de Cultura do Estado da Bahia (Secult)
+    disponibiliza uma série de dez videoaulas sobre temas como empreendedorismo, economia
+    criativa, gestão financeira e elaboração de projetos.
+  link: http://www.ba.gov.br/noticias/videoaulas-sobre-economia-criativa-e-empreendedorismo-cultural-estao-disponiveis
+  region: Nordeste
+  published_at: '2020-04-01 10:46:00'
+  state: BA
+  website: http://www.ba.gov.br/noticias
+  source_name: Governo do Estado da Bahia
+- title: Pontos oferecem cuidados para população em situação de rua
+  description: A partir desta terça-feira (dia 31), o Governo de Pernambuco, através
+    da Secretaria de Políticas de Prevenção à Violência e às Drogas, passa a oferecer
+    Pontos de Cuidado à população em situação de rua e usuários de drogas. Os pontos
+    são locais para receber até 500 pessoas por dia, com instalações para tomar banho,
+    receber alimentação e ter orientações sobre como se prevenir da covid-19. Os Pontos
+    de Cuidado são parte integrante do Pernambuco Solidário contra o coronavírus.
+    O secretário Cloves Benevides acredita os Pontos de Cuidado representam a oferta
+    de cidadania para aqueles que se encontram em situação de rua. “O cidadão é sujeito
+    de direitos independentemente da situação social que ele esteja vivendo. Com a
+    iniciativa, o Governo de Pernambuco vai cuidar daquelas pessoas em situação de
+    vulnerabilidade social”. O Estado terá quatro pontos de cuidado, que estão sendo
+    instalados no Recife, Jaboatão dos Guararapes, Olinda e Paulista. O primeiro vai
+    funcionar no Armazém Catorze, no bairro do Recife Antigo, com fácil acesso à população
+    que precisa. Os outros pontos aguardam definição de local por parte das prefeituras.
+    A estrutura e os insumos preveem o atendimento de até 500 pessoas por dia, durante
+    todos os dias da semana, pela manhã e à noite (a partir das 7h às 10h e das 18h
+    às 20h). A estrutura vai permitir que as pessoas possam tomar banho e receber
+    kits de alimentação e de higiene, além de terem informações, com foco na prevenção
+    ao novo coronavírus. Todos os Pontos de Cuidado...
+  link: http://www.pe.gov.br/b/22275
+  region: Nordeste
+  published_at: '2020-04-01 10:47:43'
+  state: PE
+  website: http://www.pe.gov.br/blog
+  source_name: Governo do Estado de Pernambuco
+- title: DetranBA apoia suspensão de ações do Maio Amarelo
+  description: |-
+    O Departamento Estadual de Trânsito da Bahia (DetranBA) se manifestou, nesta quarta-feira (1°), favorável à suspensão das ações do Maio Amarelo, movimento pela redução no número de acidentes nas vias, por causa da pandemia do coronavírus.
+    O Detran-BA declarou apoio à decisão do Observatório Nacional de Segurança Viária (ONSV), que coordena o movimento, de adiar para setembro as atividades da campanha de conscientização para condutores e pedestres, que aconteceriam no mês de maio em todo o país. Este ano, o tema da campanha é 'Perceba o risco. Proteja a vida'.
+  link: http://www.ba.gov.br/noticias/detranba-apoia-suspensao-de-acoes-do-maio-amarelo
+  region: Nordeste
+  published_at: '2020-04-01 11:14:00'
+  state: BA
+  website: http://www.ba.gov.br/noticias
+  source_name: Governo do Estado da Bahia
+- title: 'AO VIVO: governador faz transmissão pela internet neste momento'
+  description: |-
+    O governdor Eduardo Leite faz transmissão ao vivo na página do governo do Estado no Facebook (facebook.com/GovernodoRS) para atualizar informações sobre o coronavírus.
+    Com a antecipação da entrevista, hoje não será realizada a live das 14h.
+    Secom
+  link: https://estado.rs.gov.br/ao-vivo-governador-faz-transmissao-ao-vivo-pela-internet-neste-momento
+  region: Sul
+  published_at: '2020-04-01 11:17:00'
+  state: RS
+  website: https://estado.rs.gov.br/ultimas-noticias
+  source_name: Governo do Estado do Rio Grande do Sul
+- title: Governo divulga calendário de pagamento referente ao mês de março de 2020
+  description: " \r\nEm meio aos desafios postos em face à emergência de saúde pública
+    de importância internacional decorrente do novo coronavírus, o Governo de Pernambuco
+    vem adotando medidas de enfrentamento à pandemia, e unindo esforços para honrar
+    os seus compromissos junto ao funcionalismo público estadual. Neste sentido, o
+    governador Paulo Câmara divulga o calendário de pagamento da folha de salários
+    do mês de março para todos os servidores. Os aposentados e pensionistas serão
+    pagos no próximo dia 06 de abril. Já os servidores ativos e comissionados terão
+    o pagamento efetuado no dia seguinte, 07 de abril."
+  link: http://www.pe.gov.br/b/22276
+  region: Nordeste
+  published_at: '2020-04-01 11:17:47'
+  state: PE
+  website: http://www.pe.gov.br/blog
+  source_name: Governo do Estado de Pernambuco
+- title: Pandemia leva pediatria do Ipsemg a adotar telemedicina
+  description: Como ação de prevenção e enfrentamento ao coronavírus (Covid-19), o
+    serviço de pediatria do Instituto de Previdência dos Servidores do Estado de...
+  link: http://www.agenciaminas.mg.gov.br/noticia/pandemia-leva-pediatria-do-ipsemg-a-adotar-telemedicina
+  region: Sudeste
+  published_at: '2020-04-01 11:35:00'
+  state: MG
+  website: http://www.agenciaminas.mg.gov.br/noticias
+  source_name: Governo do Estado de Minas Gerais
+- title: Loja oferece desconto em chocolate delivery para servidores estaduais
+  description: O isolamento social é uma das principais medidas de prevenção ao Coronavírus.
+    Uma alternativa de driblar esse período difícil é a aposta dos comerciantes nos
+    serviços delivery. E para deixar a sua quarentena mais doce, a Cacau Show, parceira
+    do Clube de Desconto, oferece 5% de abatimento em pedidos feitos pelo WhatsApp
+    (71) 99346-6006, para as unidades da Estrada do Coco e de Simões Filho.
+  link: http://www.ba.gov.br/noticias/loja-oferece-desconto-em-chocolate-delivery-para-servidores-estaduais
+  region: Nordeste
+  published_at: '2020-04-01 11:41:00'
+  state: BA
+  website: http://www.ba.gov.br/noticias
+  source_name: Governo do Estado da Bahia
+- title: Governo e Diocese de Rio Branco firmam parceria para cessão de leitos de
+    UTI
+  description: O governador Gladson Cameli se reuniu na manhã desta quarta-feira,
+    1º, com o bispo da Diocese de Rio Branco Dom Joaquim Pertiñez para tratar sobre
+    a cessão de Unidade de Tratamento Intensivo (UTI) do Hospital Santa Juliana em
+    caso necessidade para atender pacientes acometidos pelo novo coronavírus. “Acabamos
+    de conseguir mais 20 leitos de UTI […]
+  link: https://agencia.ac.gov.br/governo-e-diocese-de-rio-branco-firmam-parceria-para-cessao-de-leitos-de-uti/
+  region: Norte
+  published_at: '2020-04-01 12:17:10'
+  state: AC
+  website: https://agencia.ac.gov.br/categoria/noticias/
+  source_name: Governo do Estado do Acre
+- title: Policiais civis doam sangue para elevar estoques durante pandemia
+  description: 'Para enfrentar a pandemia da Covid-19, o isolamento social é a melhor
+    arma, mas há um bom motivo para sair de casa: doar sangue.'
+  link: https://estado.rs.gov.br/policiais-civis-doam-sangue-para-elevar-estoques-durante-pandemia
+  region: Sul
+  published_at: '2020-04-01 13:19:00'
+  state: RS
+  website: https://estado.rs.gov.br/ultimas-noticias
+  source_name: Governo do Estado do Rio Grande do Sul
+- title: Sabesp e Prefeitura vão higienizar espaços públicos em São José dos Campos
+  description: Medida visa a auxiliar na combate ao novo coronavírus e tem sido adotada
+    em cidades do Vale do Paraíba e na capital
+  link: https://www.saopaulo.sp.gov.br/spnoticias/sabesp-e-prefeitura-vao-higienizar-espacos-publicos-em-sao-jose-dos-campos/
+  region: Sudeste
+  published_at: '2020-04-01 13:20:00'
+  state: SP
+  website: http://www.saopaulo.sp.gov.br/ultimas-noticias/
+  source_name: Governo do Estado de São Paulo
+- title: Rede virtual interliga profissionais de saúde para atendimento e apoio durante
+    pandemia
+  description: Esta semana foi lançada uma rede virtual de profissionais que tem o
+    objetivo de apoiar práticas de cuidados em saúde. A teleconsultoria visa a ampliar
+    estratégias de combate à pandemia do coronavírus interligando p...
+  link: https://saude.rs.gov.br/rede-virtual-interliga-profissionais-de-saude-para-atendimento-e-apoio-durante-pandemia
+  region: Sul
+  published_at: '2020-04-01 13:23:00'
+  state: RS
+  website: https://saude.rs.gov.br/noticias
+  source_name: Governo do Estado do Rio Grande do Sul - Secretaria da Saúde
+- title: João Azevêdo e governadores do Nordeste discutem plano de trabalho de enfrentamento
+    do coronavírus com Comitê Científico
+  description: O governador João Azevêdo participou, nesta quarta-feira (1), de videoconferência
+    com os demais governadores do Nordeste e representantes do Comitê Científico do
+    Consórcio Interestadual de Desenvolvimento Sustentável do Nordeste (Consórcio
+    Nordeste), ocasião em que foi apresentado o plano de trabalho do grupo formado
+    por cientistas, médicos e físicos, que dará suporte às tomadas de decisões dos
+    gestores estaduais em relação à pandemia do novo coronavírus. 
+  link: https://paraiba.pb.gov.br/noticias/joao-azevedo-e-governadores-do-nordeste-discutem-plano-de-trabalho-de-enfrentamento-do-coronavirus-com-comite-cientifico
+  region: Nordeste
+  published_at: '2020-04-01 13:37:00'
+  state: PB
+  website: https://paraiba.pb.gov.br/noticias
+  source_name: Governo do Estado da Paraíba
+- title: SUS receberá reforço assistencial na epidemia da Covid-19 de estudantes da
+    área da saúde
+  description: Alunos de medicina, enfermagem, farmácia e fisioterapia que estiverem
+    nos últimos anos da graduação deverão atuar na cobertura assistencial a pacientes
+    com Covid-19, em caráter excepcional e temporário no &a...
+  link: https://saude.rs.gov.br/sus-recebera-reforco-assistencial-na-epidemia-da-covid-19-de-estudantes-da-area-da-saude
+  region: Sul
+  published_at: '2020-04-01 13:45:00'
+  state: RS
+  website: https://saude.rs.gov.br/noticias
+  source_name: Governo do Estado do Rio Grande do Sul - Secretaria da Saúde
+- title: Entenda o decreto que determina fechamento do comércio em todo o RS
+  description: O decreto nº 55.154, publicado nesta quarta-feira (1º/4), restringiu
+    ainda mais a operação de estabelecimentos comerciais em todo o Rio Grande do Sul
+    em caráter excepcional e temporário para evitar a propagação do coronavírus.
+  link: https://estado.rs.gov.br/entenda-o-decreto-que-determina-fechamento-do-comercio-em-todo-o-rs
+  region: Sul
+  published_at: '2020-04-01 14:00:00'
+  state: RS
+  website: https://estado.rs.gov.br/ultimas-noticias
+  source_name: Governo do Estado do Rio Grande do Sul
+- title: BOLETIM COVID-19 SES-PE
+  description: A Secretaria Estadual de Saúde (SES-PE) confirmou, nesta quarta-feira
+    (01.04), 8 novos casos da Covid-19 no Estado. Com a atualização, o Estado contabiliza
+    95 ocorrências pelo novo coronavírus. Mais 2 óbitos também foram confirmados,
+    subindo para 8. De acordo com o boletim epidemiológico desta quarta, dos 8 novos
+    casos confirmados, 4 são do sexo masculino, com idades entre 45 e 74 anos; e 4
+    do sexo feminino, na faixa etária entre 28 e 87 anos. Dos pacientes, 7 são residentes
+    do Recife e 1 de Aliança. Até agora, os 95 casos confirmados estão distribuídos
+    por 12 municípios (Recife, Jaboatão dos Guararapes, Olinda, Camaragibe, São Lourenço
+    da Mata, Palmares, Belo Jardim, Caruaru, Petrolina, Ipubi, Goiana e Aliança),
+    além do Arquipélago de Fernando de Noronha e da ocorrência de pacientes em outros
+    Estados e países. No momento, 23 pacientes estão internados, sendo 14 em UTI/
+    UCI e 9 em leitos de isolamento. Outros 50 estão em isolamento domiciliar e 14
+    já se recuperaram da Covid-19. Sobre os dois novos óbitos da doença, tratam-se
+    de dois homens, de 64 e 81 anos, residentes de Recife e Olinda, respectivamente.
+    Ambos faleceram em unidades públicas de saúde. O paciente de 64 anos, do Recife,
+    tinha histórico de diabetes e hipertensão, além de ter passado por um transplante
+    renal há 10 anos. Apresentou quadro de tosse, desconforto respiratório e cefaleia,
+    sendo admitido no Hospital Universitário Oswaldo Cruz (Huoc) em 21.03. No dia
+    24.03, foi transferido para a UTI, onde foi mantido entubado, realizando diálise
+    e uso...
+  link: http://www.pe.gov.br/b/22277
+  region: Nordeste
+  published_at: '2020-04-01 14:09:09'
+  state: PE
+  website: http://www.pe.gov.br/blog
+  source_name: Governo do Estado de Pernambuco
+- title: "Universidades farão exames\r\npara identificar o coronavírus"
+  description: Saiba mais...
+  link: http://www.aen.pr.gov.br/modules/noticias/article.php?storyid=106420&tit=Universidades-farao-exames-para-identificar-o-coronavirus
+  region: Sul
+  published_at: '2020-04-01 14:20:00'
+  state: PR
+  website: http://www.aen.pr.gov.br/noticias.html
+  source_name: Governo do Estado do Paraná
