@@ -8,8 +8,6 @@ permalink: /tweets/
 {% assign sorted_tweets = site.data.tweets | sort: "published_at" | reverse %}
 {% assign last_tweet = sorted_tweets | first %}
 
-# Tweets sobre a COVID-19
-
 **Última atualização {{ last_tweet.published_at | date: "%Y-%m-%d %H:%M %z" }}**
 
 <table data-order='[[ 0, "desc" ]]' data-page-length='25'>

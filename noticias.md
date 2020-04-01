@@ -8,8 +8,6 @@ permalink: /noticias/
 {% assign sorted_articles = site.data.news | sort: "published_at" | reverse %}
 {% assign last_article = sorted_articles | first %}
 
-# Notícias sobre a COVID-19
-
 **Última atualização {{ last_article.published_at | date: "%Y-%m-%d %H:%M %z" }}**
 
 <table data-order='[[ 1, "desc" ]]' data-page-length='25'>
