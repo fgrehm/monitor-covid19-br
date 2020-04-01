@@ -10088,6 +10088,15 @@
   state: MG
   website: http://www.agenciaminas.mg.gov.br/noticias
   source_name: Governo do Estado de Minas Gerais
+- title: Comitê Científico do Consórcio Nordeste dá orientações para combate ao coronavírus
+  description: Durante o encontro virtual, o grupo fez uma apresentação da metodologia
+    que será usada para embasar cientificamente as ações executadas nos estados.
+  link: http://www.secom.ba.gov.br/2020/03/153085/Comite-Cientifico-do-Consorcio-Nordeste-da-orientacoes-para-combate-ao-coronavirus.html
+  region: Nordeste
+  published_at: '2020-03-31 13:10:00'
+  state: BA
+  website: http://www.secom.ba.gov.br/modules/noticias
+  source_name: Governo do Estado da Bahia - SECOM
 - title: Comitê Científico do Consórcio Nordeste dá primeiras orientações para enfrentamento
     ao coronavírus
   description: Durante o encontro virtual, o grupo, formado por renomados cientistas,
@@ -10872,6 +10881,14 @@
   state: AC
   website: https://agencia.ac.gov.br/categoria/noticias/
   source_name: Governo do Estado do Acre
+- title: Entenda as medidas de combate ao coronavírus na Bahia
+  description: ''
+  link: http://www.secom.ba.gov.br/2020/04/152898/Entenda-as-medidas-de-combate-ao-coronavirus-na-Bahia.html
+  region: Nordeste
+  published_at: '2020-04-01 08:00:00'
+  state: BA
+  website: http://www.secom.ba.gov.br/modules/noticias
+  source_name: Governo do Estado da Bahia - SECOM
 - title: 'COVID-19: Cetesb constata diminuição da poluição em SP durante a quarentena'
   description: Desde 20 de março, companhia tem registrado, em estações de monitoramento
     da região, qualidade do ar boa para poluentes primários
@@ -11052,6 +11069,15 @@
   state: AC
   website: https://agencia.ac.gov.br/categoria/noticias/
   source_name: Governo do Estado do Acre
+- title: PM do Acre mobiliza tropa para atuar na linha de frente durante pandemia
+  description: Policiais somam esforços aos que já estão diuturnamente nas ruas, em
+    ações que buscam conter a criminalidade, bem como a propagação do vírus
+  link: https://agencia.ac.gov.br/pm-do-acre-mobiliza-tropa-para-atuar-na-linha-de-frente-durante-pandemia/
+  region: Norte
+  published_at: '2020-04-01 13:15:14'
+  state: AC
+  website: https://agencia.ac.gov.br/categoria/noticias/
+  source_name: Governo do Estado do Acre
 - title: Policiais civis doam sangue para elevar estoques durante pandemia
   description: 'Para enfrentar a pandemia da Covid-19, o isolamento social é a melhor
     arma, mas há um bom motivo para sair de casa: doar sangue.'
@@ -11106,6 +11132,15 @@
   state: RS
   website: https://saude.rs.gov.br/noticias
   source_name: Governo do Estado do Rio Grande do Sul - Secretaria da Saúde
+- title: Operadores da segurança estadual receberão 30 mil máscaras descartáveis
+  description: Distribuição do material entre os profissionais de segurança visa dar
+    condições para o apoio às ações de combate ao coronavírus
+  link: https://agencia.ac.gov.br/operadores-da-seguranca-estadual-receberao-30-mil-mascaras-descartaveis/
+  region: Norte
+  published_at: '2020-04-01 13:50:45'
+  state: AC
+  website: https://agencia.ac.gov.br/categoria/noticias/
+  source_name: Governo do Estado do Acre
 - title: Entenda o decreto que determina fechamento do comércio em todo o RS
   description: O decreto nº 55.154, publicado nesta quarta-feira (1º/4), restringiu
     ainda mais a operação de estabelecimentos comerciais em todo o Rio Grande do Sul
@@ -11143,11 +11178,316 @@
   state: PE
   website: http://www.pe.gov.br/blog
   source_name: Governo do Estado de Pernambuco
+- title: Governo de SP vai apertar o cerco contra preços abusivos do botijão de gás
+  description: Anúncio feito pelo Governador João Doria é mais uma medida de apoio
+    à população de baixa renda durante o período de pandemia do coronavírus
+  link: https://www.saopaulo.sp.gov.br/spnoticias/governo-de-sp-vai-apertar-o-cerco-contra-precos-abusivos-do-botijao-de-gas/
+  region: Sudeste
+  published_at: '2020-04-01 14:18:00'
+  state: SP
+  website: http://www.saopaulo.sp.gov.br/ultimas-noticias/
+  source_name: Governo do Estado de São Paulo
 - title: "Universidades farão exames\r\npara identificar o coronavírus"
   description: Saiba mais...
   link: http://www.aen.pr.gov.br/modules/noticias/article.php?storyid=106420&tit=Universidades-farao-exames-para-identificar-o-coronavirus
   region: Sul
   published_at: '2020-04-01 14:20:00'
+  state: PR
+  website: http://www.aen.pr.gov.br/noticias.html
+  source_name: Governo do Estado do Paraná
+- title: Justiça baiana autoriza credenciamento de profissionais da área de saúde  para
+    enfrentamento ao coronavírus
+  description: A desembargadora do Tribunal de Justiça da Bahia (TJBA), Ligia Maria
+    Ramos Cunha Lima e o juiz Ruy Eduardo Almeida Britto, da 6ª Vara da Fazenda Pública,
+    atendendo pedidos da Procuradoria Geral do Estado da Bahia (PGE-BA), asseguraram
+    o credenciamento de serviços médico-hospitalares no enfrentamento da pandemia
+    do novo coronavírus.
+  link: http://www.secom.ba.gov.br/2020/04/153101/Justica-baiana-autoriza-credenciamento-de-profissionais-da-area-de-saude-para-enfrentamento-ao-coronavirus.html
+  region: Nordeste
+  published_at: '2020-04-01 14:22:00'
+  state: BA
+  website: http://www.secom.ba.gov.br/modules/noticias
+  source_name: Governo do Estado da Bahia - SECOM
+- title: Governador destaca agilidade do Lacen nos testes para o novo coronavírus
+  description: O governador Carlos Massa Ratinho Junior esteve no Laboratório Central
+    do Estado (Lacen-PR), em São José dos Pinhais, nesta quarta-feira (1º)...
+  link: http://www.aen.pr.gov.br/modules/noticias/article.php?storyid=106421&tit=Governador-destaca-agilidade-do-Lacen-nos-testes-para-o-novo-coronavirus
+  region: Sul
+  published_at: '2020-04-01 14:23:00'
+  state: PR
+  website: http://www.aen.pr.gov.br/noticias.html
+  source_name: Governo do Estado do Paraná
+- title: Centro de Acolhimento no Parque de Exposições de Salvador começa a funcionar
+    nesta quinta
+  description: O espaço receberá até 300 pessoas exclusivamente em situação de vulnerabilidade
+    social e que estejam com diagnóstico confirmado do novo coronavírus. Outro centro
+    entrará em funcionamento na próxima semana, no prédio onde funcionou a Faculdade
+    Ruy Barbosa, no bairro do Rio Vermelho.
+  link: http://www.secom.ba.gov.br/2020/04/153102/Centro-de-Acolhimento-no-Parque-de-Exposicoes-de-Salvador-comeca-a-funcionar-nesta-quinta.html
+  region: Nordeste
+  published_at: '2020-04-01 14:27:00'
+  state: BA
+  website: http://www.secom.ba.gov.br/modules/noticias
+  source_name: Governo do Estado da Bahia - SECOM
+- title: Governador destaca agilidade do Lacen nos testes da Covid-19
+  description: O governador Carlos Massa Ratinho Junior esteve no Laboratório Central
+    do Estado (Lacen-PR), em São José dos Pinhais, nesta quarta-feira (1º)...
+  link: http://www.aen.pr.gov.br/modules/noticias/article.php?storyid=106421&tit=Governador-destaca-agilidade-do-Lacen-nos-testes-da-Covid-19
+  region: Sul
+  published_at: '2020-04-01 14:30:00'
+  state: PR
+  website: http://www.aen.pr.gov.br/noticias.html
+  source_name: Governo do Estado do Paraná
+- title: Justiça baiana autoriza credenciamento de profissionais da área de saúde
+    para enfrentamento ao coronavírus
+  description: |-
+    A desembargadora do Tribunal de Justiça da Bahia (TJBA), Ligia Maria Ramos Cunha Lima e o juiz Ruy Eduardo Almeida Britto, da 6ª Vara da Fazenda Pública, atendendo pedidos da Procuradoria Geral do Estado da Bahia (PGE-BA), asseguraram o credenciamento de serviços médico-hospitalares no enfrentamento da pandemia do novo coronavírus.
+
+     
+
+    A Associação Nacional de Assistência e Proteção aos Direitos do Cidadão - ANPROTEC e o Sindicato dos Médicos do Estado da Bahia haviam impetrado mandados de segurança e obtido judicialmente a suspe
+  link: http://www.ba.gov.br/noticias/justica-baiana-autoriza-credenciamento-de-profissionais-da-area-de-saude-para
+  region: Nordeste
+  published_at: '2020-04-01 14:37:00'
+  state: BA
+  website: http://www.ba.gov.br/noticias
+  source_name: Governo do Estado da Bahia
+- title: Centro de Acolhimento no Parque de Exposições de Salvador começa a funcionar
+    nesta quinta
+  description: 'Nesta quarta-feira (1º), o governador Rui Costa realizou mais uma
+    edição do #PapoCorreria, transmitida via internet, que foi dedicada a responder
+    e esclarecer dúvidas da população sobre as ações do Governo do Estado para conter
+    a expansão da pandemia da Covid-19 na Bahia.'
+  link: http://www.ba.gov.br/noticias/centro-de-acolhimento-no-parque-de-exposicoes-de-salvador-comeca-funcionar-nesta-quinta-0
+  region: Nordeste
+  published_at: '2020-04-01 14:38:00'
+  state: BA
+  website: http://www.ba.gov.br/noticias
+  source_name: Governo do Estado da Bahia
+- title: Centro de Acolhimento no Parque de Exposições de Salvador começa a funcionar
+    nesta quinta
+  description: 'Nesta quarta-feira (1º), o governador Rui Costa realizou mais uma
+    edição do #PapoCorreria, transmitida via internet, que foi dedicada a responder
+    e esclarecer dúvidas da população sobre as ações do Governo do Estado para conter
+    a expansão da pandemia da Covid-19 na Bahia.'
+  link: http://www.ba.gov.br/noticias/centro-de-acolhimento-no-parque-de-exposicoes-de-salvador-comeca-funcionar-nesta-quinta
+  region: Nordeste
+  published_at: '2020-04-01 14:38:00'
+  state: BA
+  website: http://www.ba.gov.br/noticias
+  source_name: Governo do Estado da Bahia
+- title: Agentes do Detran-PE organizam vacinação em Escada
+  description: Com uma infraestrutura montada para organizar a circulação de veículos,
+    agentes do Departamento Estadual de Trânsito (Detran-PE) participaram da vacinação
+    de idosos contra a gripe Influenza e H1N1, no município de Escada, 60km do Recife,
+    Zona da Mata pernambucana. A atuação ocorreu pelo método “drive thru” (sem sair
+    dos carros), na tarde de ontem (31), em frente a agência do Banco do Brasil, no
+    centro da cidade. A operação do Detran-PE, denominada Prevenção “Segundos que
+    Salvam vidas”, contou com a parceria da Prefeitura de Escada, por meio da Secretaria
+    da Saúde municipal, que cedeu profissionais da área para atender aos idosos. Já
+    a equipe do Detran-PE ficou responsável pelo direcionamento dos veículos ao local
+    da vacinação, e pelo controle do tráfego, para evitar congestionamentos. Além
+    da ação de fiscalização, o órgão disponibilizou o Detran itinerante, caminhão
+    dotado com gerador próprio, frigobar (para conservação das vacinas) e banheiro.
+    A operação também contou com viaturas de apoio e um PK (carro com painel luminoso)
+    informando sobre o ponto de vacinação. “O drive thru é importante para evitar
+    aglomerações nesse momento, e para oferecer mais comodidade os que têm idade mais
+    avançada”, explana o diretor de Fiscalização do Detran-PE, Sérgio Lins. Em parceria
+    com as prefeituras municipais, o Detran-PE já realizou operações voltadas para
+    a imunização de idosos nas cidades do Recife, Camaragibe, São Lourenço da Mata,
+    e, agora, Escada. A atuação do órgão visa apoiar as determinações do Governo de
+    Pernambuco, que priorizam evitar a contaminação da população pelo coronavírus,
+    com medidas...
+  link: http://www.pe.gov.br/b/22278
+  region: Nordeste
+  published_at: '2020-04-01 14:49:36'
+  state: PE
+  website: http://www.pe.gov.br/blog
+  source_name: Governo do Estado de Pernambuco
+- title: Grupo interinstitucional valida plano de contingência para sistema prisional
+    enfrentar pandemia
+  description: O Plano de Contingência sobre o Coronavírus, proposto pela Secretaria
+    da Administração Penitenciária (Seapen) e pela Superintendência dos Serviços Penitenciários
+    (Susepe), foi validado.
+  link: https://estado.rs.gov.br/grupo-interinstitucional-valida-plano-de-contingencia-da-seapen-susepe
+  region: Sul
+  published_at: '2020-04-01 15:00:00'
+  state: RS
+  website: https://estado.rs.gov.br/ultimas-noticias
+  source_name: Governo do Estado do Rio Grande do Sul
+- title: Gladson Cameli e Socorro Neri reafirmam isolamento social e medidas de reforço
+    na saúde para conter pandemia de Covid-19
+  description: Em entrevista coletiva na manhã desta quarta-feira, 1º, o governador
+    Gladson Cameli e a prefeita de Rio Branco, Socorro Neri, reafirmaram o isolamento
+    social como medida número 1 no combate à pandemia de Covid-19 e prorrogaram o
+    fim da ação de contenção para o dia 15 de abril. Gladson Cameli fez um apelo para
+    que […]
+  link: https://agencia.ac.gov.br/gladson-cameli-e-socorro-neri-reafirmam-isolamento-social-e-medidas-de-reforco-na-saude-para-conter-pandemia-de-covid-19/
+  region: Norte
+  published_at: '2020-04-01 15:23:56'
+  state: AC
+  website: https://agencia.ac.gov.br/categoria/noticias/
+  source_name: Governo do Estado do Acre
+- title: Secretaria da Administração Penitenciária adota medidas contra Covid-19 nas
+    unidades prisionais
+  description: Diante da realidade do país com a chegada da pandemia, o Governo do
+    Estado, por meio da Secretaria de Estado da Administração Penitenciária, realiza
+    diversas ações para proteger do coronavírus os apenados, policiais penais e demais
+    colaboradores da Seap-PB. Por meio das Gerências que compõem o Sistema Penitenciário,
+    medidas de prevenções sanitárias, implantação de novas alas e ações coletivas
+    para fabricação de máscaras e materiais de limpeza estão sendo adotadas em todas
+    as unidades prisionais do Estado.
+  link: https://paraiba.pb.gov.br/noticias/secretaria-da-administracao-penitenciaria-adota-medidas-contra-covid-19-nas-unidades-prisionais
+  region: Nordeste
+  published_at: '2020-04-01 15:32:00'
+  state: PB
+  website: https://paraiba.pb.gov.br/noticias
+  source_name: Governo do Estado da Paraíba
+- title: São Paulo monta força-tarefa para testes da COVID-19
+  description: Iniciativa também processará 201 amostras de óbitos suspeitos da doença
+    no Estado que estão no Instituto Adolfo Lutz
+  link: https://www.saopaulo.sp.gov.br/ultimas-noticias/sao-paulo-monta-forca-tarefa-para-testes-da-covid-19/
+  region: Sudeste
+  published_at: '2020-04-01 15:38:00'
+  state: SP
+  website: http://www.saopaulo.sp.gov.br/ultimas-noticias/
+  source_name: Governo do Estado de São Paulo
+- title: Atendimento das Centrais de Penas Alternativas estão suspensos como medida
+    de prevenção ao Covid -19
+  description: As Centrais de Apoio às Medidas e Penas Alternativas do estado (Ceapa's)
+    estão com os serviços suspensos até o dia 30 de abril. A suspensão, como medida
+    de prevenção ao Covid - 19, foi determinada por uma Portaria do Tribunal de Justiça
+    de Pernambuco (TJPE), que interrompeu os atendimentos presenciais na Justiça até
+    essa data. As Ceapa's são vinculadas à Secretaria de Justiça e Direitos Humanos
+    (SJDH) e acompanham, atualmente, 2.464 pessoas que cometeram pequenos delitos.
+  link: http://www.pe.gov.br/b/22279
+  region: Nordeste
+  published_at: '2020-04-01 15:43:17'
+  state: PE
+  website: http://www.pe.gov.br/blog
+  source_name: Governo do Estado de Pernambuco
+- title: Forças de Segurança já conduziram 41 pessoas para delegacias por desobediência
+    às normas sanitárias
+  description: "  Com atuação das polícias Militar, Civil e Corpo de Bombeiros, detenções
+    aconteceram em 24 municípios de Pernambuco, desde a ativação do Centro Integrado
+    de Comando e Controle Regional, em 18 de março. Detidos promoveram aglomerações
+    e funcionamento irregular de comércio, bares e restaurantes, descumprindo decretos
+    do Governo do Estado para o enfrentamento à epidemia de Covid-19 As polícias de
+    Pernambuco já detiveram um total de 41 pessoas acusadas de desobedecer aos decretos
+    do Governo do Estado que impõem medidas de enfrentamento à epidemia de Covid-19,
+    doença causada pelo novo Coronavírus. O saldo é computado desde a ativação do
+    Centro Integrado de Comando e Controle Regional (CICCR), no dia 18 de março. Operações
+    evolvendo as operativas de segurança, em que houve necessidade de condução a uma
+    unidade de Polícia Civil, ocorreram em 24 municípios, de todas as regiões do Estado.
+    Na noite de ontem (31/03), na Zona Rural de Petrolina, Sertão do Estado, duas
+    pessoas foram conduzidas para a delegacia. São donos de dois bares onde pessoas
+    jogavam sinuca. A Polícia fez a orientação para imediata dispersão da aglomeração
+    e fechamento dos estabelecimentos, mas houve recusa por parte dos proprietários.
+    Entre os 24 municípios onde a segurança teve de fazer conduções, Goiana foi o
+    com mais ocorrências, com quatro, seguido por Cabrobó, Caruaru e Itambé, com três
+    cada. Segundo o Decreto Estadual nº 48.832, assinado pelo governador Paulo Câmara
+    em 19 de março, desde 21/03 só podem funcionar normalmente os serviços considerados
+    essenciais, a exemplo de supermercados, farmácias, casas de..."
+  link: http://www.pe.gov.br/b/22280
+  region: Nordeste
+  published_at: '2020-04-01 15:46:16'
+  state: PE
+  website: http://www.pe.gov.br/blog
+  source_name: Governo do Estado de Pernambuco
+- title: Produtores rurais devem adotar hábitos de prevenção contra o coronavírus
+  description: Mesmo quem mora no campo, longe das grandes cidades, deve se prevenir
+    contra o Covid-19, pois não está livre do risco de contrair o vírus. Muito...
+  link: http://www.agenciaminas.mg.gov.br/noticia/produtores-rurais-devem-adotar-habitos-de-prevencao-contra-o-coronavirus
+  region: Sudeste
+  published_at: '2020-04-01 15:50:00'
+  state: MG
+  website: http://www.agenciaminas.mg.gov.br/noticias
+  source_name: Governo do Estado de Minas Gerais
+- title: Governo estende barreira sanitária aos terminais rodoviários e ações envolvem
+    Agevisa, DER e PM
+  description: O Governo da Paraíba, por meio da Agência Estadual de Vigilância Sanitária,
+    estendeu aos terminais rodoviários de passageiros que recebem ônibus interestaduais
+    a barreira sanitária que já vem sendo executada no Aeroporto Internacional Presidente
+    Castro Pinto e que tem a finalidade de aferir a temperatura corporal dos passageiros
+    para identificar possíveis infecções pelo novo coronavírus.
+  link: https://paraiba.pb.gov.br/noticias/governo-estende-barreira-sanitaria-aos-terminais-rodoviarios-e-acoes-envolvem-agevisa-der-e-pm
+  region: Nordeste
+  published_at: '2020-04-01 16:00:00'
+  state: PB
+  website: https://paraiba.pb.gov.br/noticias
+  source_name: Governo do Estado da Paraíba
+- title: UFPel busca voluntários para trabalho em pesquisa inédita sobre coronavírus
+  description: A Universidade Federal de Pelotas (UFPel) está recrutando profissionais
+    e estudantes da área da saúde para atuar como voluntários em pesquisa inédita
+    sobre a prevalência do coronavírus na população de Pelotas.
+  link: https://estado.rs.gov.br/ufpel-busca-voluntarios-para-trabalho-em-pesquisa-inedita-sobre-coronavirus
+  region: Sul
+  published_at: '2020-04-01 16:25:00'
+  state: RS
+  website: https://estado.rs.gov.br/ultimas-noticias
+  source_name: Governo do Estado do Rio Grande do Sul
+- title: Paranaenses que testaram positivo para coronavírus falam da experiência
+  description: Mesmo com a atenção do mundo voltada para os casos do novo coronavírus,
+    a maior parte dos diagnósticos para a Covid-19 não evolui para os quadros mais
+    graves da doença...
+  link: http://www.aen.pr.gov.br/modules/noticias/article.php?storyid=106426&tit=Paranaenses-que-testaram-positivo-para-coronavirus-falam-da-experiencia
+  region: Sul
+  published_at: '2020-04-01 16:30:00'
+  state: PR
+  website: http://www.aen.pr.gov.br/noticias.html
+  source_name: Governo do Estado do Paraná
+- title: Cresce a teleorientação para pacientes do Cedeba
+  description: A equipe médica do Centro de Diabetes e Endocrinologia da Bahia (Cedeba)
+    não pára, apesar da suspensão do atendimento nos ambulatórios com a pandemia do
+    Coronavírus. Na falta da consulta presencial, a equipe formada por
+  link: http://www.saude.ba.gov.br/2020/04/01/cresce-a-teleorientacao-para-pacientes-do-cedeba/
+  region: Nordeste
+  published_at: '2020-04-01 16:55:00'
+  state: BA
+  website: http://www.saude.ba.gov.br/noticias
+  source_name: Governo do Estado da Bahia - Secretaria da Saúde
+- title: Parceria entre Estado e Randon distribuirá álcool gel para caminhoneiros
+    em postos de triagem da EGR
+  description: Motoristas de veículos de carga que circulam por estradas estaduais
+    administradas pela Empresa Gaúcha de Rodovias (EGR) ganharão um reforço na luta
+    contra o novo coronavírus.
+  link: https://estado.rs.gov.br/parceria-entre-estado-e-randon-distribuira-alcool-gel-para-caminhoneiros-em-postos-de-triagem-da-egr
+  region: Sul
+  published_at: '2020-04-01 16:56:00'
+  state: RS
+  website: https://estado.rs.gov.br/ultimas-noticias
+  source_name: Governo do Estado do Rio Grande do Sul
+- title: SUS receberá reforço assistencial de estudantes da área da saúde para combater
+    epidemia da Covid-19
+  description: Alunos de medicina, enfermagem, farmácia e fisioterapia que estiverem
+    nos últimos anos da graduação deverão atuar na cobertura assistencial a pacientes
+    com Covid-19, em caráter excepcional e temporário no âmbito do Sistema Único de
+    Saúde (SUS).
+  link: https://estado.rs.gov.br/sus-recebera-reforco-assistencial-de-estudantes-da-area-da-saude-para-combater-epidemia-da-covid-19
+  region: Sul
+  published_at: '2020-04-01 17:01:00'
+  state: RS
+  website: https://estado.rs.gov.br/ultimas-noticias
+  source_name: Governo do Estado do Rio Grande do Sul
+- title: Feiras livres e mercados municipais funcionam com cuidados e medidas de higiene
+    contra a Covid-19
+  description: Entre os cuidados estão o posicionamento da barraca na feira de forma
+    a evitar aglomeração, a uma distância mínima de três metros da barraca vizinha,
+    o uso de máscaras e luvas e a disponibilização de álcool em gel 70% nas barracas.
+    Não poderão participar da feira pessoas acima de 60 anos e/ou com doenças crônicas
+    ou que estiverem com sintomas do coronavírus.
+  link: http://www.secom.ba.gov.br/2020/04/153105/Feiras-livres-e-mercados-municipais-funcionam-com-cuidados-e-medidas-de-higiene-contra-a-Covid-19.html
+  region: Nordeste
+  published_at: '2020-04-01 17:06:00'
+  state: BA
+  website: http://www.secom.ba.gov.br/modules/noticias
+  source_name: Governo do Estado da Bahia - SECOM
+- title: "Paraná tem 44 novos casos\r\ndo novo coronavírus"
+  description: A Secretaria de Estado da Saúde confirmou nesta quarta-feira (1º) mais
+    44 casos de coronavírus no Paraná...
+  link: http://www.aen.pr.gov.br/modules/noticias/article.php?storyid=106428&tit=Parana-tem-44-novos-casos-do-novo-coronavirus
+  region: Sul
+  published_at: '2020-04-01 17:20:00'
   state: PR
   website: http://www.aen.pr.gov.br/noticias.html
   source_name: Governo do Estado do Paraná
