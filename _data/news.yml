@@ -13273,6 +13273,18 @@
   state: BA
   website: http://www.ba.gov.br/noticias
   source_name: Governo do Estado da Bahia
+- title: Cooperativas da agricultura familiar se adaptam e garantem venda de ovos
+    de Páscoa com entrega delivery
+  description: Às vésperas da Páscoa, em meio à crise da COVID-19, cooperativas da
+    agricultura familiar da Bahia que trabalham com chocolates se adaptam para escoar
+    a produção com reforço na higienização dos produtos, lançamento de promoções e
+    delivery.
+  link: http://www.ba.gov.br/noticias/cooperativas-da-agricultura-familiar-se-adaptam-e-garantem-venda-de-ovos-de-pascoa-com
+  region: Nordeste
+  published_at: '2020-04-03 13:37:00'
+  state: BA
+  website: http://www.ba.gov.br/noticias
+  source_name: Governo do Estado da Bahia
 - title: Policiais diagnosticados com a Covid-19 podem optar por ficar em hotel alugado
     pelo Estado
   description: |-
@@ -13854,6 +13866,16 @@
   state: BA
   website: http://www.secom.ba.gov.br/modules/noticias
   source_name: Governo do Estado da Bahia - SECOM
+- title: Secretaria de Infraestrutura inicia revitalização de hospital que servirá
+    de retaguarda para receber casos de coronavírus
+  description: Obras do Hospital de Dermatologia Sanitária (HDS), em Cruzeiro do Sul,
+    tiveram início nesta sexta-feira
+  link: https://agencia.ac.gov.br/secretaria-de-infraestrutura-inicia-revitalizacao-de-hospital-que-servira-de-retaguarda-para-receber-casos-de-coronavirus/
+  region: Norte
+  published_at: '2020-04-03 17:54:56'
+  state: AC
+  website: https://agencia.ac.gov.br/categoria/noticias/
+  source_name: Governo do Estado do Acre
 - title: Estado distribui cloroquina para o tratamento de casos críticos de Covid-19
   description: O Rio Grande do Sul recebeu 25 mil comprimidos de cloroquina 150mg,
     para o tratamento de pacientes graves e hospitalizados de Covid-19. Alguns hospitais
@@ -14018,3 +14040,556 @@
   state: RS
   website: https://estado.rs.gov.br/ultimas-noticias
   source_name: Governo do Estado do Rio Grande do Sul
+- title: Secretaria da Habitação implanta trabalho remoto para aprovar licenças
+  description: Medida anunciada pela pasta foi tomada em razão da pandemia do novo
+    coronavírus, causador da doença COVID-19
+  link: https://www.saopaulo.sp.gov.br/spnoticias/secretaria-da-habitacao-implanta-trabalho-remoto-para-aprovar-licencas/
+  region: Sudeste
+  published_at: '2020-04-03 20:09:00'
+  state: SP
+  website: http://www.saopaulo.sp.gov.br/ultimas-noticias/
+  source_name: Governo do Estado de São Paulo
+- title: Na sexta-feira (3/4), governo assina convênio com UFPel para estimar quantidade
+    de pessoas com coronavírus
+  description: O governo do Estado seguiu trabalhando nesta sexta-feira (3/4) para
+    combater a pandemia do coronavírus no Rio Grande do Sul.
+  link: https://estado.rs.gov.br/na-sexta-feira-3-4-governo-assina-convenio-com-ufpel-para-estimar-quantidade-de-pessoas-com-coronavirus
+  region: Sul
+  published_at: '2020-04-03 20:22:00'
+  state: RS
+  website: https://estado.rs.gov.br/ultimas-noticias
+  source_name: Governo do Estado do Rio Grande do Sul
+- title: Mais 10 leitos de UTI chegam ao RS para contingência da Covid-19
+  description: Mais 10 leitos de UTI foram entregues nesta sexta-feira (3) ao Rio
+    Grande do Sul, desta vez no Hospital São Vicente de Paulo, de Osório, e fazem
+    parte do plano de contingência de enfrentamento à Covid-19 no Estado. Os equipamen...
+  link: https://saude.rs.gov.br/mais-10-leitos-de-uti-chegam-ao-rs-para-contingencia-da-covid-19
+  region: Sul
+  published_at: '2020-04-03 20:30:00'
+  state: RS
+  website: https://saude.rs.gov.br/noticias
+  source_name: Governo do Estado do Rio Grande do Sul - Secretaria da Saúde
+- title: João Azevêdo mantém suspensão de expediente presencial nas repartições públicas
+    estaduais até dia 19 de abril
+  description: O governador João Azevêdo prorrogou a suspensão do expediente nas repartições
+    públicas estaduais até o dia 19 de abril. O decreto 40.168 foi publicado na edição
+    deste sábado (4) do Diário Oficial do Estado e representa a continuidade das medidas
+    adotadas pelo governo para evitar a propagação do novo coronavírus no Estado.
+  link: https://paraiba.pb.gov.br/noticias/joao-azevedo-mantem-suspensao-de-expediente-presencial-nas-reparticoes-publicas-estaduais-ate-dia-19-de-abril
+  region: Nordeste
+  published_at: '2020-04-04 00:26:00'
+  state: PB
+  website: https://paraiba.pb.gov.br/noticias
+  source_name: Governo do Estado da Paraíba
+- title: Presos produzem sabão para auxiliar no combate ao coronavírus
+  description: A produção de sabão por apenados de estabelecimentos prisionais do
+    Estado foi intensificada diante da pandemia do coronavírus.
+  link: https://estado.rs.gov.br/presos-produzem-sabao-para-auxiliar-no-combate-ao-coronavirus
+  region: Sul
+  published_at: '2020-04-04 06:00:00'
+  state: RS
+  website: https://estado.rs.gov.br/ultimas-noticias
+  source_name: Governo do Estado do Rio Grande do Sul
+- title: 'Coronavírus: HC de Botucatu assina convênio para realizar 20 mil testes'
+  description: Unesp, Hospital das Clínicas, Prefeitura e empresas do município do
+    interior se unem contra a doença COVID-19 em Botucatu
+  link: https://www.saopaulo.sp.gov.br/ultimas-noticias/coronavirus-hc-de-botucatu-assina-convenio-para-realizar-20-mil-testes/
+  region: Sudeste
+  published_at: '2020-04-04 08:28:00'
+  state: SP
+  website: http://www.saopaulo.sp.gov.br/ultimas-noticias/
+  source_name: Governo do Estado de São Paulo
+- title: Governo renova decreto de isolamento social até 19 de abril
+  description: O governador João Azevêdo prorrogou as medidas restritivas que visam
+    conter a disseminação do novo coronavírus na Paraíba. O decreto 40.169, publicado
+    na edição deste sábado (4) do Diário Oficial do Estado (DOE), mantém o fechamento
+    de academias, ginásios, centros esportivos púbicos e privados, shoppings, centros
+    e galerias comerciais, bares, restaurantes, casas de festas, casas noturnas, boates
+    e atividades comerciais não essenciais. A medida também se estende aos cinemas,
+    teatros, circos, parques de diversão e embarcações turísticas de esporte e lazer
+    em todo o Litoral paraibano que devem manter suas atividades suspensas até o dia
+    19 de abril.
+  link: https://paraiba.pb.gov.br/noticias/governo-renova-decreto-de-isolamento-social-ate-19-de-abril
+  region: Nordeste
+  published_at: '2020-04-04 08:52:00'
+  state: PB
+  website: https://paraiba.pb.gov.br/noticias
+  source_name: Governo do Estado da Paraíba
+- title: Trabalho dos profissionais da UTI de isolamento apresenta bons resultados
+  description: Primeira paciente com a Covid-19 internada na área de isolamento do
+    Pronto-Socorro já recebeu alta da UTI
+  link: https://agencia.ac.gov.br/trabalho-dos-profissionais-da-uti-de-isolamento-apresenta-bons-resultados/
+  region: Norte
+  published_at: '2020-04-04 09:08:18'
+  state: AC
+  website: https://agencia.ac.gov.br/categoria/noticias/
+  source_name: Governo do Estado do Acre
+- title: 'Covid-19: Governo freta aeronave e recebe mais 42 caixas de insumos para
+    exames'
+  description: Jato fretado pelo Governo do Acre aterrissou em Rio Branco na noite
+    desta sexta-feira, 3, trazendo material para exames e equipamentos de proteção
+  link: https://agencia.ac.gov.br/covid-19-governo-freta-aeronave-e-recebe-mais-42-caixas-de-insumos-para-exames/
+  region: Norte
+  published_at: '2020-04-04 09:19:55'
+  state: AC
+  website: https://agencia.ac.gov.br/categoria/noticias/
+  source_name: Governo do Estado do Acre
+- title: Governo adia pagamento de adicional de ICMS para equipamentos da rede hospitalar
+    gerando impacto de R$ 25 milhões
+  description: O governador João Azevêdo autorizou o adiamento do pagamento do diferencial
+    de ICMS na aquisição interestadual de equipamentos e máquinas para a rede hospitalar,
+    relacionados ao combate do coronavírus. O decreto 40.170, que regulamenta a medida,
+    foi publicado na edição deste sábado (4) do Diário Oficial do Estado (DOE) e representa
+    um impacto econômico de R$ 25 milhões aos cofres públicos.
+  link: https://paraiba.pb.gov.br/noticias/governo-adia-pagamento-de-adicional-de-icms-para-equipamentos-da-rede-hospitalar-gerando-impacto-de-r-25-milhoes
+  region: Nordeste
+  published_at: '2020-04-04 09:35:00'
+  state: PB
+  website: https://paraiba.pb.gov.br/noticias
+  source_name: Governo do Estado da Paraíba
+- title: Governo prorroga suspensão de transporte intermunicipal até 15 de abril
+  description: A medida, que tem como objetivo conter o avanço da contaminação por
+    coronavírus na população baiana, estava programada até 5 de abril, mas foi estendida
+    por mais 10 dias por determinação do governador Rui Costa.
+  link: http://www.secom.ba.gov.br/2020/04/153149/Governo-prorroga-suspensao-de-transporte-intermunicipal-ate-15-de-abril.html
+  region: Nordeste
+  published_at: '2020-04-04 09:40:00'
+  state: BA
+  website: http://www.secom.ba.gov.br/modules/noticias
+  source_name: Governo do Estado da Bahia - SECOM
+- title: Governo prorroga suspensão de transporte intermunicipal até 15 de abril
+  description: O Governo do Estado da Bahia publicou, no Diário Oficial (DOE) deste
+    sábado (4), decreto que prorroga a suspensão do transporte intermunicipal em cidades
+    da Bahia até o dia 15 de abril. A medida, que tem como objetivo conter o avanço
+    da contaminação por coronavírus na população baiana, estava programada até 5 de
+    abril, mas foi estendida por mais 10 dias por determinação do governador Rui Costa.
+  link: http://www.ba.gov.br/noticias/governo-prorroga-suspensao-de-transporte-intermunicipal-ate-15-de-abril
+  region: Nordeste
+  published_at: '2020-04-04 09:54:00'
+  state: BA
+  website: http://www.ba.gov.br/noticias
+  source_name: Governo do Estado da Bahia
+- title: Bahia registra sétimo óbito pelo novo coronavírus (Covid-19)
+  description: A Secretaria da Saúde do Estado da Bahia (Sesab) informa que registrou,
+    neste sábado (4), o sétimo óbito pelo novo coronavírus (Covid-19) no estado. A
+    paciente era uma mulher de 28 anos, que tinha ido
+  link: http://www.saude.ba.gov.br/2020/04/04/bahia-registra-setimo-obito-pelo-novo-coronavirus-covid-19/
+  region: Nordeste
+  published_at: '2020-04-04 10:01:00'
+  state: BA
+  website: http://www.saude.ba.gov.br/noticias
+  source_name: Governo do Estado da Bahia - Secretaria da Saúde
+- title: Comunicado de Suspensão do Cronograma do Prêmio Literário da Academia Juvenil
+    Acreana de Letras
+  description: Resolução nº 003/2020 O Presidente da Comissão Organizadora do Prêmio
+    Literário da Academia Juvenil Acreana de Letras, no uso das atribuições que lhe
+    confere a Resolução nº 001/2020; Considerando a pandemia de Covid-19 vivenciada
+    pela população mundial, e o Decreto nº 5.496, de 20 de março de 2020, que suspende
+    a realização de eventos culturais […]
+  link: https://agencia.ac.gov.br/comunicado-de-suspensao-do-cronograma-do-premio-literario-da-academia-juvenil-acreana-de-letras/
+  region: Norte
+  published_at: '2020-04-04 10:02:30'
+  state: AC
+  website: https://agencia.ac.gov.br/categoria/noticias/
+  source_name: Governo do Estado do Acre
+- title: Governo adota mais medidas para combate ao coronavírus e redução de impactos
+  description: Saiba mais...
+  link: http://www.aen.pr.gov.br/modules/noticias/article.php?storyid=106467&tit=Governo-adota-mais-medidas-para-combate-ao-coronavirus-e-reducao-de-impactos
+  region: Sul
+  published_at: '2020-04-04 10:04:00'
+  state: PR
+  website: http://www.aen.pr.gov.br/noticias.html
+  source_name: Governo do Estado do Paraná
+- title: Bahia registra sétimo óbito pelo novo coronavírus (Covid-19)
+  description: A paciente era uma mulher de 28 anos, que tinha ido a Itapetinga realizar
+    uma cesária. Teve alta e sete dias após o parto, apresentou quadro de insuficiência
+    respiratória, tendo sido internada em um hospital público no município.
+  link: http://www.secom.ba.gov.br/2020/04/153150/Bahia-registra-setimo-obito-pelo-novo-coronavirus-Covid-19.html
+  region: Nordeste
+  published_at: '2020-04-04 10:30:00'
+  state: BA
+  website: http://www.secom.ba.gov.br/modules/noticias
+  source_name: Governo do Estado da Bahia - SECOM
+- title: Bahia registra sétimo óbito pelo novo coronavírus (Covid-19)
+  description: |-
+    A Secretaria da Saúde do Estado da Bahia (Sesab) informa que registrou, neste sábado (4), o sétimo óbito pelo novo coronavírus (Covid-19) no estado. A paciente era uma mulher de 28 anos, que tinha ido a Itapetinga realizar uma cesária. Teve alta e sete dias após o parto, apresentou quadro de insuficiência respiratória, tendo sido internada em um hospital público no município. Ela evoluiu para óbito em 1º de abril. A paciente era residente da região de Trancoso, em Porto Seguro.
+
+     
+
+     
+
+    Fonte: Ascom/ Sesab
+  link: http://www.ba.gov.br/noticias/bahia-registra-setimo-obito-pelo-novo-coronavirus-covid-19
+  region: Nordeste
+  published_at: '2020-04-04 10:45:00'
+  state: BA
+  website: http://www.ba.gov.br/noticias
+  source_name: Governo do Estado da Bahia
+- title: Em ação emergencial, governo leva água potável para 950 famílias
+  description: Medida será adotada enquanto durar a situação de emergência decorrente
+    da pandemia, podendo ser ampliada ao longo do ano
+  link: https://agencia.ac.gov.br/em-acao-emergencial-governo-leva-agua-potavel-para-950-familias/
+  region: Norte
+  published_at: '2020-04-04 11:31:55'
+  state: AC
+  website: https://agencia.ac.gov.br/categoria/noticias/
+  source_name: Governo do Estado do Acre
+- title: BOLETIM COVID-19 SES-PE
+  description: A Secretaria Estadual de Saúde (SES-PE) informa que, nas últimas 24
+    horas, confirmou mais 40 casos da Covid-19 em Pernambuco, em pacientes entre 21
+    e 95 anos, sendo 22 do sexo feminino e 18 do masculino. Com isso, já são 176 confirmações
+    no Estado. Foram registradas, também, mais 4 mortes, totalizando 14 óbitos. Já
+    as curas totalizam 23. Os casos confirmados estão distribuídos por 14 municípios
+    (Recife, Jaboatão dos Guararapes, Olinda, Camaragibe, Cabo de Santo Agostinho,
+    Paulista, São Lourenço da Mata, Palmares, Belo Jardim, Caruaru, Petrolina, Ipubi,
+    Aliança e Goiana), além do Arquipélago de Fernando de Noronha e da ocorrência
+    de pacientes em outros Estados e países. No momento, 52 pacientes estão internados,
+    sendo 18 em UTI/ UCI e 34 em leitos de isolamento. Outros 87 estão em isolamento
+    domiciliar. ÓBITOS – As 4 mortes confirmadas foram em 3 homens, de 65, 71 e 74
+    anos, e uma mulher de 95, todos do Recife. A senhora tinha fibrose cística e faleceu
+    na última quinta (02.04) em uma unidade privada da capital pernambucana. O homem
+     de 65, ex-tabagista, veio a óbito na última sexta (03.04) no Hospital Universitário
+    Oswaldo Cruz (Huoc), enquanto o de 71, cardiopata, diabético e hipertenso, faleceu
+    na última terça (31.03) em uma Unidade de Pronto Atendimento (UPA). Já o idoso
+    de 74, com doença cardiovascular crônica, faleceu no dia 31.03 em uma Upinha. 
+    NOVA SELEÇÃO - O Governo de Pernambuco, por meio das Secretarias Estaduais de
+    Administração (SAD) e Saúde (SES-PE), publicou neste sábado (04.04), no Diário
+    Oficial, edital...
+  link: http://www.pe.gov.br/b/22306
+  region: Nordeste
+  published_at: '2020-04-04 13:37:41'
+  state: PE
+  website: http://www.pe.gov.br/blog
+  source_name: Governo do Estado de Pernambuco
+- title: Hospital São Vicente de Paulo recebe dez leitos de UTI
+  description: Mais dez leitos de UTI foram entregues na sexta-feira (3/4) ao Rio
+    Grande do Sul, desta vez no Hospital São Vicente de Paulo, de Osório. Eles fazem
+    parte do plano de contingência de enfrentamento à Covid-19 no Estado.
+  link: https://estado.rs.gov.br/hospital-sao-vicente-de-paulo-recebe-dez-leitos-de-uti
+  region: Sul
+  published_at: '2020-04-04 13:50:00'
+  state: RS
+  website: https://estado.rs.gov.br/ultimas-noticias
+  source_name: Governo do Estado do Rio Grande do Sul
+- title: Bahia tem 332 casos confirmados de Covid-19 e 63 pessoas curadas
+  description: A Bahia registra 332 casos confirmados do novo coronavírus (Covid-19).
+    Até o momento, 1.913 casos foram descartados e houve sete óbitos. Este número
+    contabiliza todos os registros de janeiro até as 14 horas deste sábado
+  link: http://www.saude.ba.gov.br/2020/04/04/bahia-tem-332-casos-confirmados-de-covid-19-e-63-pessoas-curadas/
+  region: Nordeste
+  published_at: '2020-04-04 14:04:00'
+  state: BA
+  website: http://www.saude.ba.gov.br/noticias
+  source_name: Governo do Estado da Bahia - Secretaria da Saúde
+- title: Farmácia do Huerb se antecipa e garante estoque de medicamentos em tempo
+    de combate ao coronavírus
+  description: Antibióticos e remédios para pacientes estão disponíveis, inclusive,
+    para empréstimos a outras unidades, se for necessário
+  link: https://agencia.ac.gov.br/farmacia-do-huerb-se-antecipa-e-garante-estoque-de-medicamentos-em-tempo-de-combate-ao-coronavirus/
+  region: Norte
+  published_at: '2020-04-04 14:46:37'
+  state: AC
+  website: https://agencia.ac.gov.br/categoria/noticias/
+  source_name: Governo do Estado do Acre
+- title: Restaurantes populares do Governo ampliam fornecimento em mais 2 mil refeições
+    diárias
+  description: Os quatro Restaurantes Populares - localizados em João Pessoa, Campina
+    Grande, Santa Rita e Patos -, administrados pela Secretaria de Estado do Desenvolvimento
+    Humano (Sedh), passaram a fornecer mais 2 mil refeições diárias. Assim, juntos,
+    estão servindo diariamente 6 mil refeições. Esta é uma das medidas sociais anunciadas
+    pelo governador João Azevêdo para enfrentamento dos efeitos da pandemia do novo
+    coronavírus.
+  link: https://paraiba.pb.gov.br/noticias/restaurantes-populares-do-governo-ampliam-fornecimento-em-mais-2-mil-refeicoes-diarias
+  region: Nordeste
+  published_at: '2020-04-04 15:09:00'
+  state: PB
+  website: https://paraiba.pb.gov.br/noticias
+  source_name: Governo do Estado da Paraíba
+- title: PBTur incentiva turistas a não cancelarem suas viagens à Paraíba depois da
+    pandemia
+  description: A Empresa Paraibana de Turismo (PBTur) iniciou neste final de semana
+    uma ação de divulgação de um vídeo institucional de menos de um minuto com imagens
+    do Destino Paraíba pelas redes sociais. Com o slogan: Não Cancele sua viagem para
+    cá! Adie e aguente mais um pouquinho para conhecer o Destino Paraíba, o objetivo
+    da campanha é mostrar aos turistas brasileiros que, após a pandemia do coronavírus,
+    vale a pena viajar pelo país e conhecer a Paraíba, atendendo a uma orientação
+    do Ministério do Turismo (MTur) que já vinha utilizando a hastag #RemarqueSuaViagem.
+  link: https://paraiba.pb.gov.br/noticias/pbtur-incentiva-turistas-a-nao-cancelarem-suas-viagens-a-paraiba-depois-da-pandemia
+  region: Nordeste
+  published_at: '2020-04-04 15:24:00'
+  state: PB
+  website: https://paraiba.pb.gov.br/noticias
+  source_name: Governo do Estado da Paraíba
+- title: Boletim Sesacre deste sábado, 4, sobre o coronavírus
+  description: A Secretaria de Estado de Saúde do Acre (Sesacre), por meio do Departamento
+    de Vigilância em Saúde (DVS), informa que não registrou novos casos positivos
+    para coronavírus, assim, permanece em 46 o número de casos confirmados no estado,
+    neste sábado, 4, com base nas informações do Centro de Infectologia Charles Mérieux,
+    em Rio Branco. O […]
+  link: https://agencia.ac.gov.br/boletim-sesacre-deste-sabado-4-sobre-o-coronavirus/
+  region: Norte
+  published_at: '2020-04-04 15:46:39'
+  state: AC
+  website: https://agencia.ac.gov.br/categoria/noticias/
+  source_name: Governo do Estado do Acre
+- title: Paraná tem 94 novos casos de coronavírus e mais dois óbitos
+  description: A Secretaria de Estado da Saúde informa mais dois óbitos por coronavírus
+    no Paraná...
+  link: http://www.aen.pr.gov.br/modules/noticias/article.php?storyid=106468&tit=Parana-tem-94-novos-casos-de-coronavirus-e-mais-dois-obitos
+  region: Sul
+  published_at: '2020-04-04 16:00:00'
+  state: PR
+  website: http://www.aen.pr.gov.br/noticias.html
+  source_name: Governo do Estado do Paraná
+- title: Governo reforça necessidade de notificação imediata de casos suspeitos Covid-19
+    pelos municípios
+  description: O Governo da Paraíba, por meio da Secretaria de Estado da Saúde (SES),
+    reforça aos municípios que a notificação de casos do novo coronavírus (Covid-19)
+    deve ser imediata. Por determinação do Ministério Público Federal, o serviço de
+    saúde e/ou a Secretaria Municipal deverá garantir essa informação ao Estado em
+    até 24 horas para evitar a subnotificação.
+  link: https://paraiba.pb.gov.br/noticias/governo-reforca-necessidade-de-notificacao-imediata-de-casos-suspeitos-covid-19-pelos-municipios
+  region: Nordeste
+  published_at: '2020-04-04 16:13:00'
+  state: PB
+  website: https://paraiba.pb.gov.br/noticias
+  source_name: Governo do Estado da Paraíba
+- title: '#50 | Boletim "Pernambuco Contra o Coronavírus"'
+  description: "  PRAIAS E PARQUES | O Governo de Pernambuco determinou o fechamento
+    dos parques e praias por três dias, do sábado (4) à segunda (6). O decreto foi
+    assinado nesta sexta (3), pelo governador Paulo Câmara. Comércio, serviços públicos
+    e atividades não essenciais seguem fechadas até 17/4, e as escolas não funcionam
+    pelo menos até o dia 30/4 - os prazos ainda podem ser prorrogados. Além disso,
+    bancos e lotéricas precisarão apresentar medidas para preservar a saúde dos clientes
+    que precisarem esperar em filas. Assista ao pronunciamento do governador Paulo
+    Câmara: https://youtu.be/8Vab_1H2r4A Para denunciar descumprimento das medidas
+    contra a aglomeração: ligue 190 DADOS | Pernambuco foi o único estado brasileiro
+    a apresentar um “de alto nível de transparência” em relação à divulgação de dados
+    sobre a Covid-19. A análise foi feita pela organização Open Knowledge Internacional.
+    Confira: http://www.pe.gov.br/b/22299 Consulte o Portal da Transparência: http://www.pe.gov.br/b/22287
+    CORONAVÍRUS |A Secretaria Estadual de Saúde confirmou mais 30 casos da Covid-19,
+    sendo um óbito, totalizando 136 casos e 10 mortes pelo novo coronavírus até o
+    meio dia desta sexta (03).No momento, 45 pacientes estão internados, sendo 19
+    em UTI/ UCI e 26 em leitos de isolamento. Outros 64 estão em isolamento domiciliar
+    e 17 já se recuperaram. Mais informações: https://bit.ly/2RaP97I Conheça a plataforma
+    que dá orientações virtuais sobre a Covid-19, classifica o risco do paciente e,
+    se necessário, faz videochamada com enfermeiros ou médicos: https://bit.ly/2QOzgns
+    ICMS | Para reduzir os efeitos da crise econômica provocada pela Covid-19, Pernambuco
+    confirmou, nesta sexta (3), a prorrogação do..."
+  link: http://www.pe.gov.br/b/22307
+  region: Nordeste
+  published_at: '2020-04-04 17:16:00'
+  state: PE
+  website: http://www.pe.gov.br/blog
+  source_name: Governo do Estado de Pernambuco
+- title: Mortes por coronavírus avançam pelo interior de SP
+  description: Campinas é o município do interior que registra o maior número de óbitos;
+    Penápolis tem a primeira morte
+  link: https://www.saopaulo.sp.gov.br/ultimas-noticias/mortes-por-coronavirus-avancam-pelo-interior-de-sp/
+  region: Sudeste
+  published_at: '2020-04-04 17:37:00'
+  state: SP
+  website: http://www.saopaulo.sp.gov.br/ultimas-noticias/
+  source_name: Governo do Estado de São Paulo
+- title: Bahia tem 336 casos confirmados de Covid-19 e 63 pessoas curadas
+  description: Bahia registra 336 casos confirmados do novo coronavírus (Covid-19),
+    o que representa 5,17% do total de casos notificados. Até o momento, 1913 casos
+    foram descartados e houve sete óbitos, sendo cinco em Salvador, um em
+  link: http://www.saude.ba.gov.br/2020/04/04/bahia-tem-336-casos-confirmados-de-covid-19-e-63-pessoas-curadas/
+  region: Nordeste
+  published_at: '2020-04-04 17:51:00'
+  state: BA
+  website: http://www.saude.ba.gov.br/noticias
+  source_name: Governo do Estado da Bahia - Secretaria da Saúde
+- title: Governador proíbe carreatas e passeatas enquanto durar pandemia do coronavírus
+  description: O governador João Azevêdo determinou neste sábado (4), por meio do
+    decreto 40.173, a proibição de carreatas, passeatas e quaisquer eventos que promovam
+    a aglomeração de pessoas em cidades e suas respectivas Regiões Metropolitanas
+    que tenham casos confirmados da Covid-19. A medida restritiva se faz necessária
+    para evitar a propagação do coronavírus no Estado e seu descumprimento pode acarretar
+    na aplicação de multa de até R$ 50 mil, que serão destinados às medidas de combate
+    ao novo vírus.
+  link: https://paraiba.pb.gov.br/noticias/governador-proibe-carreatas-e-passeatas-enquanto-durar-pandemia-do-coronavirus
+  region: Nordeste
+  published_at: '2020-04-04 17:53:00'
+  state: PB
+  website: https://paraiba.pb.gov.br/noticias
+  source_name: Governo do Estado da Paraíba
+- title: Aulas programadas na rede estadual de ensino iniciam nova etapa
+  description: Com a prorrogação do período de suspensão das aulas presenciais até
+    30 de abril, para combater a disseminação do coronavírus, a Secretaria Estadual
+    da Educação (Seduc) começa, a partir de segunda-feira (6/4), uma nova etapa das
+    aulas programadas.
+  link: https://estado.rs.gov.br/aulas-programadas-na-rede-estadual-de-ensino-iniciam-nova-etapa
+  region: Sul
+  published_at: '2020-04-04 18:03:00'
+  state: RS
+  website: https://estado.rs.gov.br/ultimas-noticias
+  source_name: Governo do Estado do Rio Grande do Sul
+- title: Governo de SP libera R$ 60 milhões à Capital para enfrentamento ao coronavírus
+  description: Recurso será destinado à implantação de leitos de UTI e custeio dos
+    hospitais da Brasilândia e Parelheiros
+  link: https://www.saopaulo.sp.gov.br/ultimas-noticias/governo-de-sp-libera-r-60-milhoes-a-capital-para-enfrentamento-ao-coronavirus-2/
+  region: Sudeste
+  published_at: '2020-04-04 18:18:00'
+  state: SP
+  website: http://www.saopaulo.sp.gov.br/ultimas-noticias/
+  source_name: Governo do Estado de São Paulo
+- title: Bahia tem 336 casos confirmados de Covid-19 e 63 pessoas curadas
+  description: Bahia registra 336 casos confirmados do novo coronavírus (Covid-19),
+    o que representa 5,17% do total de casos notificados. Até o momento, 1913 casos
+    foram descartados e houve sete óbitos, sendo cinco em Salvador, um em Utinga e
+    outro em Itapetinga.
+  link: http://www.secom.ba.gov.br/2020/04/153151/Bahia-tem-336-casos-confirmados-de-Covid-19-e-63-pessoas-curadas.html
+  region: Nordeste
+  published_at: '2020-04-04 18:20:00'
+  state: BA
+  website: http://www.secom.ba.gov.br/modules/noticias
+  source_name: Governo do Estado da Bahia - SECOM
+- title: '#51 | Boletim "Pernambuco Contra o Coronavírus"'
+  description: "   CORONAVÍRUS | A Secretaria de Saúde (SES-PE) anunciou mais 40 casos
+    confirmados de Covid-19 neste sábado (4). No total, há 176 confirmações, 23 pessoas
+    recuperadas e 14 óbitos pelo Novo Coronavírus no Estado. Vale lembrar que o número
+    de testes realizados pela SES-PE cresceu, e os laboratórios privados também voltaram
+    a ter capacidade de testagem. As quatro mortes confirmadas foram de três homens,
+    de 65, 71 e 74 anos, e de uma mulher de 95 anos, todos do Recife. Boletim completo: http://www.pe.gov.br/b/22306
+    PRAIAS E PARQUES | O Governo de Pernambuco determinou o fechamento dos parques
+    e praias por três dias, do sábado (4) à segunda (6). O decreto foi assinado na
+    sexta (3), pelo governador Paulo Câmara. Comércio, serviços públicos e atividades
+    não essenciais seguem fechadas até 17/4, e as escolas não funcionam pelo menos
+    até o dia 30/4 - os prazos ainda podem ser prorrogados. Além disso, bancos e lotéricas
+    precisarão apresentar medidas para preservar a saúde dos clientes que precisarem
+    esperar em filas. Para denunciar descumprimento das medidas contra a aglomeração:
+    ligue 190 ISOLAMENTO| O isolamento social nos próximos 15 dias será fundamental
+    para minimizar os efeitos do pico do contágio, que deve ocorrer na 2ª quinzena
+    de abril. Fique em casa!  SELEÇÃO | O Governo de Pernambuco publicou neste sábado
+    (4), no Diário Oficial, edital de seleção pública com 114 vagas para o Laboratório
+    Central de Saúde Pública de Pernambuco (Lacen-PE). Serão convocados biomédicos,
+    farmacêuticos, bioquímicos, sanitaristas e técnicos de laboratório. As inscrições
+    vão do sábado (4/04)..."
+  link: http://www.pe.gov.br/b/22308
+  region: Nordeste
+  published_at: '2020-04-04 18:33:00'
+  state: PE
+  website: http://www.pe.gov.br/blog
+  source_name: Governo do Estado de Pernambuco
+- title: '#51 | Boletim "Pernambuco Contra o Coronavírus"'
+  description: "   CORONAVÍRUS | A Secretaria de Saúde (SES-PE) anunciou mais 40 casos
+    confirmados de Covid-19 neste sábado (4). No total, há 176 confirmações, 23 pessoas
+    recuperadas e 14 óbitos pelo Novo Coronavírus no Estado. Vale lembrar que o número
+    de testes realizados pela SES-PE cresceu, e os laboratórios privados também voltaram
+    a ter capacidade de testagem. As quatro mortes confirmadas foram de três homens,
+    de 65, 71 e 74 anos, e de uma mulher de 95 anos, todos do Recife. Boletim completo:
+    https://bit.ly/34aS9WZ PRAIAS E PARQUES | O Governo de Pernambuco determinou o
+    fechamento dos parques e praias por três dias, do sábado (4) à segunda (6). O
+    decreto foi assinado na sexta (3), pelo governador Paulo Câmara. Comércio, serviços
+    públicos e atividades não essenciais seguem fechadas até 17/4, e as escolas não
+    funcionam pelo menos até o dia 30/4 - os prazos ainda podem ser prorrogados. Além
+    disso, bancos e lotéricas precisarão apresentar medidas para preservar a saúde
+    dos clientes que precisarem esperar em filas. Para denunciar descumprimento das
+    medidas contra a aglomeração: ligue 190 ISOLAMENTO| O isolamento social nos próximos
+    15 dias será fundamental para minimizar os efeitos do pico do contágio, que deve
+    ocorrer na 2ª quinzena de abril. Fique em casa!  SELEÇÃO | O Governo de Pernambuco
+    publicou neste sábado (4), no Diário Oficial, edital de seleção pública com 114
+    vagas para o Laboratório Central de Saúde Pública de Pernambuco (Lacen-PE). Serão
+    convocados biomédicos, farmacêuticos, bioquímicos, sanitaristas e técnicos de
+    laboratório. As inscrições vão do sábado..."
+  link: http://www.pe.gov.br/b/22308
+  region: Nordeste
+  published_at: '2020-04-04 18:33:00'
+  state: PE
+  website: http://www.pe.gov.br/blog
+  source_name: Governo do Estado de Pernambuco
+- title: "“Não precisamos esperar morrer alguém para entender a gravidade do momento”"
+  description: Advogada que esteve entre a vida e a morte na UTI teve alta neste domingo,
+    4, e a irmã dela, Simone Fernandes, profissional de Saúde que está na linha de
+    frente do combate à pandemia, fala sobre os dias de angústia
+  link: https://agencia.ac.gov.br/nao-precisamos-esperar-morrer-alguem-para-entender-a-gravidade-do-momento/
+  region: Norte
+  published_at: '2020-04-04 18:35:07'
+  state: AC
+  website: https://agencia.ac.gov.br/categoria/noticias/
+  source_name: Governo do Estado do Acre
+- title: Bahia tem 336 casos confirmados de Covid-19 e 63 pessoas curadas
+  description: Bahia registra 336 casos confirmados do novo coronavírus (Covid-19),
+    o que representa 5,17% do total de casos notificados. Até o momento, 1913 casos
+    foram descartados e houve sete óbitos, sendo cinco em Salvador, um em Utinga e
+    outro em Itapetinga. Este número contabiliza todos os registros de janeiro até
+    as 17 horas deste sábado (4). Ao todo, 63 pessoas estão recuperadas e 33 encontram-se
+    internadas, sendo 18 em UTI.
+  link: http://www.ba.gov.br/noticias/bahia-tem-336-casos-confirmados-de-covid-19-e-63-pessoas-curadas
+  region: Nordeste
+  published_at: '2020-04-04 18:38:00'
+  state: BA
+  website: http://www.ba.gov.br/noticias
+  source_name: Governo do Estado da Bahia
+- title: Bahia registra oitavo óbito pelo novo coronavírus (Covid-19)
+  description: A Secretaria da Saúde do Estado da Bahia (Sesab) informa que registrou,
+    neste sábado (4), o oitavo óbito pelo novo coronavírus (Covid-19) no estado. O
+    paciente era um homem de 55 anos, que apresentou febre,
+  link: http://www.saude.ba.gov.br/2020/04/04/bahia-registra-oitavo-obito-pelo-novo-coronavirus-covid-19/
+  region: Nordeste
+  published_at: '2020-04-04 19:24:00'
+  state: BA
+  website: http://www.saude.ba.gov.br/noticias
+  source_name: Governo do Estado da Bahia - Secretaria da Saúde
+- title: 'Coronavírus Sem Fake nº 6: Registro de óbitos, Etecs e diagnóstico caseiro'
+  description: Equipe técnica da Secretaria da Saúde esclarece informações falsas
+    divulgadas nas redes sociais ou por aplicativos de mensagem
+  link: https://www.saopaulo.sp.gov.br/spnoticias/coronavirus-sem-fake-no-6-registro-de-obitos-etecs-e-diagnostico-caseiro/
+  region: Sudeste
+  published_at: '2020-04-04 19:27:00'
+  state: SP
+  website: http://www.saopaulo.sp.gov.br/ultimas-noticias/
+  source_name: Governo do Estado de São Paulo
+- title: Medidas simples ajudam a manter o coronavírus longe dos alimentos
+  description: Centro de pesquisa apoiado pela Fapesp esclareceu dúvidas sobre papel
+    das refeições na propagação da doença COVID-19
+  link: https://www.saopaulo.sp.gov.br/spnoticias/medidas-simples-ajudam-a-manter-o-coronavirus-longe-dos-alimentos/
+  region: Sudeste
+  published_at: '2020-04-05 08:16:00'
+  state: SP
+  website: http://www.saopaulo.sp.gov.br/ultimas-noticias/
+  source_name: Governo do Estado de São Paulo
+- title: Bahia registra nono óbito pelo novo coronavírus (Covid-19)
+  description: A Secretaria da Saúde do Estado da Bahia (Sesab) informa que registrou,
+    neste domingo (5), o nono óbito pelo novo coronavírus (Covid-19) no estado. O
+    paciente era um homem de 87 anos, que faleceu na
+  link: http://www.saude.ba.gov.br/2020/04/05/bahia-registra-nono-obito-pelo-novo-coronavirus-covid-19/
+  region: Nordeste
+  published_at: '2020-04-05 11:19:00'
+  state: BA
+  website: http://www.saude.ba.gov.br/noticias
+  source_name: Governo do Estado da Bahia - Secretaria da Saúde
+- title: Bahia registra nono óbito pelo novo coronavírus (Covid-19)​
+  description: A Secretaria da Saúde do Estado da Bahia (Sesab) informa que registrou,
+    neste domingo (5), o nono óbito pelo novo coronavírus (Covid-19) no estado. O
+    paciente era um homem de 87 anos, que faleceu na última sexta-feira (3) e cujo
+    resultado laboratorial foi divulgado hoje (5).
+  link: http://www.secom.ba.gov.br/2020/04/153152/Bahia-registra-nono-obito-pelo-novo-coronavirus-Covid-19.html
+  region: Nordeste
+  published_at: '2020-04-05 12:30:00'
+  state: BA
+  website: http://www.secom.ba.gov.br/modules/noticias
+  source_name: Governo do Estado da Bahia - SECOM
+- title: Bahia tem 401 confirmações de Covid-19
+  description: Bahia registra 401 casos confirmados do novo coronavírus (Covid-19).
+    Até o momento, 1914 casos foram descartados e houve nove óbitos, sendo sete notificados
+    em Salvador, um em Utinga e outro em Itapetinga. Este número contabiliza
+  link: http://www.saude.ba.gov.br/2020/04/05/bahia-tem-401-confirmacoes-de-covid-19/
+  region: Nordeste
+  published_at: '2020-04-05 13:11:00'
+  state: BA
+  website: http://www.saude.ba.gov.br/noticias
+  source_name: Governo do Estado da Bahia - Secretaria da Saúde
+- title: Bahia tem 401 confirmações de Covid-19​
+  description: Bahia registra 401 casos confirmados do novo coronavírus (Covid-19).
+    Até o momento, 1914 casos foram descartados e houve nove óbitos, sendo sete notificados
+    em Salvador, um em Utinga e outro em Itapetinga. Este número contabiliza todos
+    os registros de janeiro até as 12 horas deste domingo (5).
+  link: http://www.secom.ba.gov.br/2020/04/153154/Bahia-tem-401-confirmacoes-de-Covid-19.html
+  region: Nordeste
+  published_at: '2020-04-05 13:20:00'
+  state: BA
+  website: http://www.secom.ba.gov.br/modules/noticias
+  source_name: Governo do Estado da Bahia - SECOM

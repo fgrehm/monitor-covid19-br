@@ -1,0 +1,6 @@
+- label: Filtrar por estado
+  items:
+    - name: Acre
+      link: /noticias/acre
+    - name: Alagoas
+      link: /noticias/alagoas
